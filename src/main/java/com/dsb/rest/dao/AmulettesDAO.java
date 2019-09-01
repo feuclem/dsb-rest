@@ -1,13 +1,15 @@
 package com.dsb.rest.dao;
 
 import com.dsb.rest.model.Equipments;
-import com.dsb.rest.model.FilterForm;
 import com.google.gson.GsonBuilder;
 import org.springframework.stereotype.Repository;
 
 import java.io.FileNotFoundException;
 import java.io.FileReader;
-import java.util.*;
+import java.util.Arrays;
+import java.util.Collections;
+import java.util.Comparator;
+import java.util.List;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
 
@@ -21,11 +23,11 @@ public class AmulettesDAO {
         return Arrays.asList(el);
     }
 
-    public List<Equipments> filterAmulettes(int page, FilterForm filterForm) throws FileNotFoundException {
+    public List<Equipments> filterAmulettes(int page, int level) throws FileNotFoundException {
         List<Equipments> equipmentsList = this.deserialized();
         return equipmentsList
                 .stream()
-                .filter(equipments -> equipments.getLvl().equals(filterForm.getLvl()))
+                .filter(equipments -> Integer.parseInt(equipments.getLvl()) == level)
                 .skip(pageSize * (page - 1))
                 .limit(pageSize)
                 .collect(Collectors.toList());

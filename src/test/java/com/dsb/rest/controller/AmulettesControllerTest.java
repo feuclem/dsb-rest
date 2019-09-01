@@ -2,15 +2,11 @@ package com.dsb.rest.controller;
 
 import com.dsb.rest.dao.AmulettesDAO;
 import com.dsb.rest.model.Equipments;
-import com.dsb.rest.model.FilterForm;
-import org.assertj.core.api.Assertions;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.io.FileNotFoundException;
 import java.util.List;
-
-import static org.junit.Assert.*;
 
 public class AmulettesControllerTest {
 
@@ -130,11 +126,8 @@ public class AmulettesControllerTest {
 
     @Test
     public void filterAmulettes() throws FileNotFoundException {
-        // Given
-        FilterForm filterForm = new FilterForm("200");
-
         // When
-        List<Equipments> result = amulettesController.filterAmulettes(1, filterForm);
+        List<Equipments> result = amulettesController.filterAmulettes(1, 200);
 
         // Then
         Assert.assertEquals(result.size(), 35);
