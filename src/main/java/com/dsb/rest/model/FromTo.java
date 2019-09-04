@@ -4,9 +4,7 @@ public class FromTo {
     private String from;
     private String to;
 
-    public FromTo(String from, String to) {
-        this.from = from;
-        this.to = to;
+    public FromTo() {
     }
 
     public String getFrom() {

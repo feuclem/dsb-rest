@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="" />
+    <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/amulettes.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/amulettes.json" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,9 +32,9 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/dsb/rest/dao" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="Debugger_Data_Views_Java" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -44,6 +47,7 @@
       <recent name="" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/dsb/rest/dao" />
     </key>
   </component>
@@ -59,7 +63,22 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.SpringBootDemoApplication (1)">
+  <component name="RunManager" selected="Spring Boot.DsbApplication">
+    <configuration name="AmulettesControllerTest (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsb-rest" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dsb.rest.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.dsb.rest.controller" />
+      <option name="MAIN_CLASS_NAME" value="com.dsb.rest.controller.AmulettesControllerTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="AmulettesControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="springbootdemo" />
       <extension name="coverage">
@@ -91,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmulettesControllerTest.getAllAmulettesPage5ShouldReturn201To250Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootdemo" />
+    <configuration name="AmulettesControllerTest.getAllAmulettesPage1ShouldReturn1To50Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="dsb-rest" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.dsb.rest.controller.*" />
@@ -101,40 +120,21 @@
       </extension>
       <option name="PACKAGE_NAME" value="com.dsb.rest.controller" />
       <option name="MAIN_CLASS_NAME" value="com.dsb.rest.controller.AmulettesControllerTest" />
-      <option name="METHOD_NAME" value="getAllAmulettesPage5ShouldReturn201To250Elements" />
+      <option name="METHOD_NAME" value="getAllAmulettesPage1ShouldReturn1To50Elements" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="AmulettesControllerTest.getAllAmulettesPage6ShouldReturn251To300Elements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootdemo" />
+    <configuration name="DsbApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="dsb-rest" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.dsb.rest.controller.*" />
+          <option name="PATTERN" value="com.dsb.rest.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.dsb.rest.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.dsb.rest.controller.AmulettesControllerTest" />
-      <option name="METHOD_NAME" value="getAllAmulettesPage6ShouldReturn251To300Elements" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="AmulettesControllerTest.getAllAmulettesPage7ShouldReturn301ToXXXElements" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="springbootdemo" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.dsb.rest.controller.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="com.dsb.rest.controller" />
-      <option name="MAIN_CLASS_NAME" value="com.dsb.rest.controller.AmulettesControllerTest" />
-      <option name="METHOD_NAME" value="getAllAmulettesPage7ShouldReturn301ToXXXElements" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dsb.rest.DsbApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -155,11 +155,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.DsbApplication" />
+        <item itemvalue="JUnit.AmulettesControllerTest (1)" />
+        <item itemvalue="JUnit.AmulettesControllerTest.getAllAmulettesPage1ShouldReturn1To50Elements" />
         <item itemvalue="JUnit.AmulettesControllerTest.filterAmulettes" />
         <item itemvalue="JUnit.AmulettesControllerTest" />
-        <item itemvalue="JUnit.AmulettesControllerTest.getAllAmulettesPage7ShouldReturn301ToXXXElements" />
-        <item itemvalue="JUnit.AmulettesControllerTest.getAllAmulettesPage6ShouldReturn251To300Elements" />
-        <item itemvalue="JUnit.AmulettesControllerTest.getAllAmulettesPage5ShouldReturn201To250Elements" />
       </list>
     </recent_temporary>
   </component>
@@ -176,6 +176,9 @@
       <workItem from="1567324182044" duration="523000" />
       <workItem from="1567329283869" duration="7509000" />
       <workItem from="1567352613931" duration="8532000" />
+      <workItem from="1567511340637" duration="1057000" />
+      <workItem from="1567582316022" duration="172000" />
+      <workItem from="1567583503827" duration="8248000" />
     </task>
     <task id="LOCAL-00001" summary="WIP">
       <created>1567366171569</created>
@@ -184,7 +187,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567366171569</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Feat: remove null value">
+      <created>1567590486506</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1567590486506</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -195,7 +205,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -205,7 +217,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="WIP" />
-    <option name="LAST_COMMIT_MESSAGE" value="WIP" />
+    <MESSAGE value="Feat: remove null value" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: remove null value" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>

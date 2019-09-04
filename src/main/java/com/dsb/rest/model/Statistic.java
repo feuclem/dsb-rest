@@ -1,19 +1,31 @@
 package com.dsb.rest.model;
 
-import com.google.gson.annotations.SerializedName;
+import com.fasterxml.jackson.annotation.JsonAlias;
+import com.fasterxml.jackson.annotation.JsonInclude;
+import com.fasterxml.jackson.annotation.JsonProperty;
 
 public class Statistic {
-    @SerializedName("Vitalité")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Vitalité")
     private FromTo vitalite;
-    @SerializedName("PA")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("PA")
     private FromTo pa;
-    @SerializedName("PM")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("PM")
     private FromTo pm;
-    @SerializedName("Sagesse")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Portée")
+    private FromTo po;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Sagesse")
     private FromTo sagesse;
-    @SerializedName("Soins")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Soins")
     private FromTo soins;
-    @SerializedName(value = "% Critique", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({
+            "% Critique",
             "1% Critique",
             "2% Critique",
             "3% Critique",
@@ -56,33 +68,62 @@ public class Statistic {
             "-20% Critique"
     })
     private FromTo critique;
-    @SerializedName("Puissance")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Puissance")
     private FromTo puissance;
-    @SerializedName("Force")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Force")
     private FromTo force;
-    @SerializedName("Intelligence")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Intelligence")
     private FromTo intelligence;
-    @SerializedName("Chance")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Chance")
     private FromTo chance;
-    @SerializedName("Agilité")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Agilité")
     private FromTo agilite;
-    @SerializedName("Initiative")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Initiative")
     private FromTo initiative;
-    @SerializedName("Dommages Neutre")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Neutre")
     private FromTo dommagesNeutre;
-    @SerializedName("Dommages Terre")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Terre")
     private FromTo dommagesTerre;
-    @SerializedName("Dommages Feu")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Feu")
     private FromTo dommagesFeu;
-    @SerializedName("Dommages Eau")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Eau")
     private FromTo dommagesEau;
-    @SerializedName("Dommages Air")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Air")
     private FromTo dommagesAir;
-    @SerializedName("Dommages Critiques")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages")
+    private FromTo dommages;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("(dommages Neutre)")
+    private FromTo dommagesArmeNeutre;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("(dommages Terre)")
+    private FromTo dommagesArmeTerre;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("(dommages Feu)")
+    private FromTo dommagesArmeFeu;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("(dommages Eau)")
+    private FromTo dommagesArmeEau;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Critiques")
     private FromTo dommagesCritiques;
-    @SerializedName("Dommages Poussée")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Poussée")
     private FromTo dommagesPoussee;
-    @SerializedName(value = "% Résistance Neutre", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Résistance Neutre",
             "1% Résistance Neutre",
             "2% Résistance Neutre",
             "3% Résistance Neutre",
@@ -105,7 +146,8 @@ public class Statistic {
             "-10% Résistance Neutre"
     })
     private FromTo pourcentResistanceNeutre;
-    @SerializedName(value = "% Résistance Terre", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Résistance Terre",
             "1% Résistance Terre",
             "2% Résistance Terre",
             "3% Résistance Terre",
@@ -128,7 +170,8 @@ public class Statistic {
             "-10% Résistance Terre"
     })
     private FromTo pourcentResistanceTerre;
-    @SerializedName(value = "% Résistance Feu", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Résistance Feu",
             "1% Résistance Feu",
             "2% Résistance Feu",
             "3% Résistance Feu",
@@ -151,7 +194,8 @@ public class Statistic {
             "-10% Résistance Feu"
     })
     private FromTo pourcentResistanceFeu;
-    @SerializedName(value = "% Résistance Eau", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Résistance Eau",
             "1% Résistance Eau",
             "2% Résistance Eau",
             "3% Résistance Eau",
@@ -174,7 +218,8 @@ public class Statistic {
             "-10% Résistance Eau"
     })
     private FromTo pourcentResistanceEau;
-    @SerializedName(value = "% Résistance Air", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Résistance Air",
             "1% Résistance Air",
             "2% Résistance Air",
             "3% Résistance Air",
@@ -197,31 +242,53 @@ public class Statistic {
             "-10% Résistance Air"
     })
     private FromTo pourcentResistanceAir;
-    @SerializedName("Résistance Critiques")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Critiques")
     private FromTo resistanceCritiques;
-    @SerializedName("Résistance Poussées")
-    private FromTo resistancePoussees;
-    @SerializedName("Tacle")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Poussée")
+    private FromTo resistancePoussee;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Tacle")
     private FromTo tacle;
-    @SerializedName("Fuite")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Fuite")
     private FromTo fuite;
-    @SerializedName("Esquive PA")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Esquive PA")
     private FromTo esquivePa;
-    @SerializedName("Esquive PM")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Esquive PM")
     private FromTo esquivePm;
-    @SerializedName("Retrait PA")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Retrait PA")
     private FromTo retraitPa;
-    @SerializedName("Retrait PM")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Retrait PM")
     private FromTo retraitPm;
-    @SerializedName("Résistance Terre")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Neutre")
+    private FromTo resistanceFixeNeutre;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Terre")
     private FromTo resistanceFixeTerre;
-    @SerializedName("Résistance Feu")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Feu")
     private FromTo resistanceFixeFeu;
-    @SerializedName("Résistance Eau")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Eau")
     private FromTo resistanceFixeEau;
-    @SerializedName("Résistance Air")
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Résistance Air")
     private FromTo resistanceFixeAir;
-    @SerializedName(value = "1% Résistance distance", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Prospection")
+    private FromTo prospection;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Invocations")
+    private FromTo invocations;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "1% Résistance distance",
             "2% Résistance distance",
             "3% Résistance distance",
             "4% Résistance distance",
@@ -263,7 +330,8 @@ public class Statistic {
             "-20% Résistance distance"
     })
     private FromTo pourcentResistanceDistance;
-    @SerializedName(value = "1% Résistance mêlée", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "1% Résistance mêlée",
             "2% Résistance mêlée",
             "3% Résistance mêlée",
             "4% Résistance mêlée",
@@ -305,7 +373,8 @@ public class Statistic {
             "-20% Résistance mêlée"
     })
     private FromTo pourcentResistanceMelee;
-    @SerializedName(value = "% Dommages mêlée", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Dommages mêlée",
             "2% Dommages mêlée",
             "3% Dommages mêlée",
             "4% Dommages mêlée",
@@ -347,7 +416,8 @@ public class Statistic {
             "-20% Dommages mêlée"
     })
     private FromTo pourcentDommagesMelee;
-    @SerializedName(value = "% Dommages distance", alternate = {
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Dommages distance",
             "2% Dommages distance",
             "3% Dommages distance",
             "4% Dommages distance",
@@ -389,6 +459,58 @@ public class Statistic {
             "-20% Dommages distance"
     })
     private FromTo pourcentDommagesDistance;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Puissance (pièges)")
+    private FromTo puissancePieges;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Dommages Pièges")
+    private FromTo dommagesPieges;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonAlias({ "% Dommages aux sorts",
+            "2% Dommages aux sorts",
+            "3% Dommages aux sorts",
+            "4% Dommages aux sorts",
+            "5% Dommages aux sorts",
+            "6% Dommages aux sorts",
+            "7% Dommages aux sorts",
+            "8% Dommages aux sorts",
+            "9% Dommages aux sorts",
+            "10% Dommages aux sorts",
+            "11% Dommages aux sorts",
+            "12% Dommages aux sorts",
+            "13% Dommages aux sorts",
+            "14% Dommages aux sorts",
+            "15% Dommages aux sorts",
+            "16% Dommages aux sorts",
+            "17% Dommages aux sorts",
+            "18% Dommages aux sorts",
+            "19% Dommages aux sorts",
+            "20% Dommages aux sorts",
+            "-1% Dommages aux sorts",
+            "-2% Dommages aux sorts",
+            "-3% Dommages aux sorts",
+            "-4% Dommages aux sorts",
+            "-5% Dommages aux sorts",
+            "-6% Dommages aux sorts",
+            "-7% Dommages aux sorts",
+            "-8% Dommages aux sorts",
+            "-9% Dommages aux sorts",
+            "-10% Dommages aux sorts",
+            "-11% Dommages aux sorts",
+            "-12% Dommages aux sorts",
+            "-13% Dommages aux sorts",
+            "-14% Dommages aux sorts",
+            "-15% Dommages aux sorts",
+            "-16% Dommages aux sorts",
+            "-17% Dommages aux sorts",
+            "-18% Dommages aux sorts",
+            "-19% Dommages aux sorts",
+            "-20% Dommages aux sorts"
+    })
+    private FromTo dommagesSorts;
+    @JsonInclude(JsonInclude.Include.NON_NULL)
+    @JsonProperty("Pods")
+    private FromTo pods;
 
     public FromTo getVitalite() {
         return vitalite;
@@ -582,12 +704,12 @@ public class Statistic {
         this.dommagesPoussee = dommagesPoussee;
     }
 
-    public FromTo getResistancePoussees() {
-        return resistancePoussees;
+    public FromTo getResistancePoussee() {
+        return resistancePoussee;
     }
 
-    public void setResistancePoussees(FromTo resistancePoussees) {
-        this.resistancePoussees = resistancePoussees;
+    public void setResistancePoussee(FromTo resistancePoussee) {
+        this.resistancePoussee = resistancePoussee;
     }
 
     public FromTo getFuite() {
@@ -692,5 +814,125 @@ public class Statistic {
 
     public void setPourcentDommagesDistance(FromTo pourcentDommagesDistance) {
         this.pourcentDommagesDistance = pourcentDommagesDistance;
+    }
+
+    public FromTo getPo() {
+        return po;
+    }
+
+    public void setPo(FromTo po) {
+        this.po = po;
+    }
+
+    public FromTo getPa() {
+        return pa;
+    }
+
+    public void setPa(FromTo pa) {
+        this.pa = pa;
+    }
+
+    public FromTo getPm() {
+        return pm;
+    }
+
+    public void setPm(FromTo pm) {
+        this.pm = pm;
+    }
+
+    public FromTo getDommagesArmeNeutre() {
+        return dommagesArmeNeutre;
+    }
+
+    public void setDommagesArmeNeutre(FromTo dommagesArmeNeutre) {
+        this.dommagesArmeNeutre = dommagesArmeNeutre;
+    }
+
+    public FromTo getDommagesArmeTerre() {
+        return dommagesArmeTerre;
+    }
+
+    public void setDommagesArmeTerre(FromTo dommagesArmeTerre) {
+        this.dommagesArmeTerre = dommagesArmeTerre;
+    }
+
+    public FromTo getDommagesArmeFeu() {
+        return dommagesArmeFeu;
+    }
+
+    public void setDommagesArmeFeu(FromTo dommagesArmeFeu) {
+        this.dommagesArmeFeu = dommagesArmeFeu;
+    }
+
+    public FromTo getDommagesArmeEau() {
+        return dommagesArmeEau;
+    }
+
+    public void setDommagesArmeEau(FromTo dommagesArmeEau) {
+        this.dommagesArmeEau = dommagesArmeEau;
+    }
+
+    public FromTo getDommages() {
+        return dommages;
+    }
+
+    public void setDommages(FromTo dommages) {
+        this.dommages = dommages;
+    }
+
+    public FromTo getProspection() {
+        return prospection;
+    }
+
+    public void setProspection(FromTo prospection) {
+        this.prospection = prospection;
+    }
+
+    public FromTo getInvocations() {
+        return invocations;
+    }
+
+    public void setInvocations(FromTo invocations) {
+        this.invocations = invocations;
+    }
+
+    public FromTo getPuissancePieges() {
+        return puissancePieges;
+    }
+
+    public void setPuissancePieges(FromTo puissancePieges) {
+        this.puissancePieges = puissancePieges;
+    }
+
+    public FromTo getDommagesPieges() {
+        return dommagesPieges;
+    }
+
+    public void setDommagesPieges(FromTo dommagesPieges) {
+        this.dommagesPieges = dommagesPieges;
+    }
+
+    public FromTo getDommagesSorts() {
+        return dommagesSorts;
+    }
+
+    public void setDommagesSorts(FromTo dommagesSorts) {
+        this.dommagesSorts = dommagesSorts;
+    }
+
+    public FromTo getPods() {
+        return pods;
+    }
+
+    public void setPods(FromTo pods) {
+        this.pods = pods;
+    }
+
+    public FromTo getResistanceFixeNeutre() {
+        return resistanceFixeNeutre;
+    }
+
+    public void setResistanceFixeNeutre(FromTo resistanceFixeNeutre) {
+        this.resistanceFixeNeutre = resistanceFixeNeutre;
     }
 }

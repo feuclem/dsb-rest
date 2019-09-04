@@ -5,7 +5,7 @@ import com.dsb.rest.model.Equipments;
 import org.junit.Assert;
 import org.junit.Test;
 
-import java.io.FileNotFoundException;
+import java.io.IOException;
 import java.util.List;
 
 public class AmulettesControllerTest {
@@ -13,7 +13,7 @@ public class AmulettesControllerTest {
     private AmulettesController amulettesController = new AmulettesController(new AmulettesDAO());
 
     @Test
-    public void getAllAmulettesPage1ShouldReturn1To50Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage1ShouldReturn1To50Elements() throws IOException {
         // Given
         int page = 1;
 
@@ -24,12 +24,16 @@ public class AmulettesControllerTest {
         Assert.assertEquals(result.size(), 50);
         Assert.assertEquals(result.get(0).getName(), "Amulette Volkorne");
         Assert.assertEquals(result.get(0).getLvl(), "200");
+        Assert.assertEquals(result.get(0).getStats().get(0).getVitalite().getFrom(), "301");
+        Assert.assertEquals(result.get(0).getStats().get(0).getVitalite().getTo(), "400");
+        Assert.assertEquals(result.get(0).getStats().get(1).getIntelligence().getFrom(), "81");
+        Assert.assertEquals(result.get(0).getStats().get(1).getIntelligence().getTo(), "100");
         Assert.assertEquals(result.get(49).getName(), "Amulette de Danathor");
         Assert.assertEquals(result.get(49).getLvl(), "194");
     }
 
     @Test
-    public void getAllAmulettesPage2ShouldReturn51To100Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage2ShouldReturn51To100Elements() throws IOException {
         // Given
         int page = 2;
 
@@ -45,7 +49,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void getAllAmulettesPage3ShouldReturn100To149Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage3ShouldReturn100To149Elements() throws IOException {
         // Given
         int page = 3;
 
@@ -61,7 +65,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void getAllAmulettesPage4ShouldReturn150To200Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage4ShouldReturn150To200Elements() throws IOException {
         // Given
         int page = 4;
 
@@ -77,7 +81,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void getAllAmulettesPage5ShouldReturn201To250Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage5ShouldReturn201To250Elements() throws IOException {
         // Given
         int page = 5;
 
@@ -93,7 +97,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void getAllAmulettesPage6ShouldReturn251To300Elements() throws FileNotFoundException {
+    public void getAllAmulettesPage6ShouldReturn251To300Elements() throws IOException {
         // Given
         int page = 6;
 
@@ -109,7 +113,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void getAllAmulettesPage7ShouldReturn301ToXXXElements() throws FileNotFoundException {
+    public void getAllAmulettesPage7ShouldReturn301ToXXXElements() throws IOException {
         // Given
         int page = 7;
 
@@ -125,7 +129,7 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void filterAmulettes() throws FileNotFoundException {
+    public void filterAmulettes() throws IOException {
         // When
         List<Equipments> result = amulettesController.filterAmulettes(1, 200);
 
