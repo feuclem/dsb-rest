@@ -1,6 +1,6 @@
 package com.dsb.rest.controller;
 
-import com.dsb.rest.dao.AmulettesDAO;
+import com.dsb.rest.dao.EquipementsDAO;
 import com.dsb.rest.model.Equipments;
 import org.junit.Assert;
 import org.junit.Test;
@@ -10,7 +10,7 @@ import java.util.List;
 
 public class AmulettesControllerTest {
 
-    private AmulettesController amulettesController = new AmulettesController(new AmulettesDAO());
+    private AmulettesController amulettesController = new AmulettesController(new EquipementsDAO());
 
     @Test
     public void getAllAmulettesPage1ShouldReturn1To50Elements() throws IOException {

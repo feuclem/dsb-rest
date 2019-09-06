@@ -1,0 +1,326 @@
+[
+  {
+    "_id": 694,
+    "name": "Dofus Pourpre",
+    "lvl": "110",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23001.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "80"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 737,
+    "name": "Dofus Émeraude",
+    "lvl": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23002.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "200"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 739,
+    "name": "Dofus Turquoise",
+    "lvl": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23003.png",
+    "stats": [
+      {
+        "% Critique": {
+          "from": "10"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 972,
+    "name": "Dofus Cawotte",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23006.png",
+    "stats": [
+      {
+        "Sagesse": {
+          "from": "60"
+        }
+      },
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 6980,
+    "name": "Dofus Vulbis",
+    "lvl": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23004.png",
+    "stats": [
+      {
+        "PM": {
+          "from": "1"
+        }
+      },
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 7043,
+    "name": "Dofus des Glaces",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23005.png",
+    "stats": [
+      {
+        "Dommages Air": {
+          "from": "25"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "from": "25"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "from": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "from": "25"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "from": "25"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 7113,
+    "name": "Dofawa",
+    "lvl": "6",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23009.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "1"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 7114,
+    "name": "Dofus Ébène",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23007.png",
+    "stats": [],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 7115,
+    "name": "Dofus Ivoire",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23011.png",
+    "stats": [],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 7754,
+    "name": "Dofus Ocre",
+    "lvl": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23012.png",
+    "stats": [
+      {
+        "PA": {
+          "from": "1"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 8072,
+    "name": "Dofus Kaliptus",
+    "lvl": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23010.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "6",
+          "to": "30"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 8698,
+    "name": "Dofus Nébuleux",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23016.png",
+    "stats": [
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 10907,
+    "name": "Dokille",
+    "lvl": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23017.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "10"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 13344,
+    "name": "Dolmanax",
+    "lvl": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23018.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "from": "50"
+        }
+      },
+      {
+        "Force": {
+          "from": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "50"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 15235,
+    "name": "Dotruche",
+    "lvl": "110",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23019.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "20"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 16061,
+    "name": "Dofus des Veilleurs",
+    "lvl": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23020.png",
+    "stats": [
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 17078,
+    "name": "Dokoko",
+    "lvl": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23022.png",
+    "stats": [
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 18043,
+    "name": "Dofus Abyssal",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23023.png",
+    "stats": [
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 19398,
+    "name": "Dofus Forgelave",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23024.png",
+    "stats": [
+      {},
+      {
+        "Résistance Poussée": {
+          "from": "60"
+        }
+      }
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 19629,
+    "name": "Dofus Argenté",
+    "lvl": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23025.png",
+    "stats": [
+      {}
+    ],
+    "type": "Dofus",
+    "setId": 0
+  },
+  {
+    "_id": 20286,
+    "name": "Dofus Argenté Scintillant",
+    "lvl": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23027.png",
+    "stats": [],
+    "type": "Dofus",
+    "setId": 0
+  }
+]
