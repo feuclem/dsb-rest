@@ -146,7 +146,33 @@
     "name": "Dofus Ivoire",
     "lvl": "180",
     "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23011.png",
-    "stats": [],
+    "stats": [
+      {
+        "40 Résistance Neutre": {
+          "from": "40"
+        }
+      },
+      {
+        "40 Résistance Terre": {
+          "from": "40"
+        }
+      },
+      {
+        "40 Résistance Feu": {
+          "from": "40"
+        }
+      },
+      {
+        "40 Résistance Eau": {
+          "from": "40"
+        }
+      },
+      {
+        "40 Résistance Air": {
+          "from": "40"
+        }
+      }
+    ],
     "type": "Dofus",
     "setId": 0
   },
@@ -189,7 +215,16 @@
     "lvl": "180",
     "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/23016.png",
     "stats": [
-      {}
+      {
+        "% Dommages distance": {
+          "from": 20
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "from": 20
+        }
+      }
     ],
     "type": "Dofus",
     "setId": 0

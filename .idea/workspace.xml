@@ -1,39 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="Feat: remove null value">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/AnneauxController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/ArmesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/BottesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/BoucliersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/CapesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/CeinturesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/CoiffesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/DofusController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/FamiliersController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/MonturesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/PanopliesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/TropheesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/anneaux.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/armes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/bottes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/boucliers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/capes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/ceintures.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/coiffes.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/dofus.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/familiers.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/montures.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/panoplies.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/trophees.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dsb-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dsb-rest.iml" afterDir="false" />
+    <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/AmulettesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/AmulettesController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/dsb/rest/dao/AmulettesDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/dao/EquipementsDAO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/com/dsb/rest/controller/AmulettesControllerTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/dsb/rest/controller/AmulettesControllerTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/dao/AmulettesDAO.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/com/dsb/rest/controller/AmulettesControllerTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/dsb/rest/controller/AmulettesControllerTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dsb/rest/model/Statistic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/model/Statistic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/dofus.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/dofus.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/model/Statistic.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dsb/rest/model/Statistic.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -219,7 +191,9 @@
       <workItem from="1567583503827" duration="8248000" />
       <workItem from="1567751084007" duration="1842000" />
       <workItem from="1567781798898" duration="770000" />
-      <workItem from="1567782685298" duration="3789000" />
+      <workItem from="1567782685298" duration="3828000" />
+      <workItem from="1567959844973" duration="603000" />
+      <workItem from="1567960720926" duration="1218000" />
     </task>
     <task id="LOCAL-00001" summary="WIP">
       <created>1567366171569</created>
@@ -235,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567590486506</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Feat: add new url">
+      <created>1567786484533</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1567786484533</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,7 +240,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="WIP" />
     <MESSAGE value="Feat: remove null value" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: remove null value" />
+    <MESSAGE value="Feat: add new url" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: add new url" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
