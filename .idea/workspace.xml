@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/dsb-rest.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dsb-rest.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/panoplies.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/panoplies.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -43,12 +45,6 @@
     <key name="CreateTestDialog.RecentsKey">
       <recent name="com.dsb.rest.controller" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/main/resources" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.dsb.rest.controller" />
       <recent name="com.dsb.rest.dao" />
@@ -56,6 +52,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/main/resources" />
       <recent name="$PROJECT_DIR$/src/main/java/com/dsb/rest/dao" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -191,7 +193,8 @@
       <workItem from="1567782685298" duration="3828000" />
       <workItem from="1567959844973" duration="603000" />
       <workItem from="1567960720926" duration="1218000" />
-      <workItem from="1568092177229" duration="251000" />
+      <workItem from="1568092177229" duration="1009000" />
+      <workItem from="1568113916717" duration="5291000" />
     </task>
     <task id="LOCAL-00001" summary="WIP">
       <created>1567366171569</created>
@@ -214,7 +217,14 @@
       <option name="project" value="LOCAL" />
       <updated>1567786484533</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Feat: add new cross origin">
+      <created>1568092461119</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1568092461119</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -239,7 +249,8 @@
     <MESSAGE value="WIP" />
     <MESSAGE value="Feat: remove null value" />
     <MESSAGE value="Feat: add new url" />
-    <option name="LAST_COMMIT_MESSAGE" value="Feat: add new url" />
+    <MESSAGE value="Feat: add new cross origin" />
+    <option name="LAST_COMMIT_MESSAGE" value="Feat: add new cross origin" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
 </project>
