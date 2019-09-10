@@ -9,7 +9,7 @@ import java.io.IOException;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200", "https://testdsb.herokuapp.com"})
 @RequestMapping(path = "/familiers")
 public class FamiliersController {
     final static String dir = "src/main/resources/familiers.json";

@@ -11,7 +11,7 @@ import java.io.FileReader;
 import java.io.IOException;
 
 @RestController
-@CrossOrigin(origins = "http://localhost:4200")
+@CrossOrigin(origins = {"http://localhost:4200", "https://testdsb.herokuapp.com"})
 @RequestMapping(path = "/panoplies")
 public class PanopliesController {
     private final static String dir = "src/main/resources/panoplies.json";
