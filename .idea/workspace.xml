@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e10f5654-06fe-41a9-9cf5-b3309245f029" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/model/Panoplie.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/panoplies.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/panoplies.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/AmulettesController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/PanopliesController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/dsb/rest/controller/PanopliesController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/PanopliesController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/dsb/rest/controller/PanopliesController.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -195,6 +196,8 @@
       <workItem from="1567960720926" duration="1218000" />
       <workItem from="1568092177229" duration="1009000" />
       <workItem from="1568113916717" duration="5291000" />
+      <workItem from="1568297397870" duration="63000" />
+      <workItem from="1568297499204" duration="3182000" />
     </task>
     <task id="LOCAL-00001" summary="WIP">
       <created>1567366171569</created>
