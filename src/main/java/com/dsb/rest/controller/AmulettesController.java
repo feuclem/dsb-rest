@@ -9,7 +9,6 @@ import java.io.IOException;
 import java.util.List;
 
 @RestController
-@CrossOrigin(origins = {"http://localhost:4200", "https://testdsb.herokuapp.com"})
 @RequestMapping(path = "/amulettes")
 public class AmulettesController {
     final static String dir = "src/main/resources/amulettes.json";
@@ -20,12 +19,17 @@ public class AmulettesController {
     }
 
     @GetMapping(path = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> getAllAmulettes(@RequestParam int page) throws IOException {
+    public List<Equipments> getAll(@RequestParam int page) throws IOException {
         return equipementsDAO.getAllEquipements(dir, page);
     }
 
+    @GetMapping(path = "/total", produces = MediaType.APPLICATION_JSON_VALUE)
+    public Integer getTotal() throws IOException {
+        return equipementsDAO.getTotalEquipement(dir);
+    }
+
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> filterAmulettes(@RequestParam int page, @RequestParam int level) throws IOException {
+    public List<Equipments> filter(@RequestParam int page, @RequestParam int level) throws IOException {
         return equipementsDAO.filterEquipements(dir, page, level);
     }
 }

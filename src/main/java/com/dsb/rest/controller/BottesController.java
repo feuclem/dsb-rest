@@ -20,12 +20,17 @@ public class BottesController {
     }
 
     @GetMapping(path = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> getAllBottes(@RequestParam int page) throws IOException {
+    public List<Equipments> getAll(@RequestParam int page) throws IOException {
         return equipementsDAO.getAllEquipements(dir, page);
     }
 
+    @GetMapping(path = "/total", produces = MediaType.APPLICATION_JSON_VALUE)
+    public Integer getTotal() throws IOException {
+        return equipementsDAO.getTotalEquipement(dir);
+    }
+
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> filterBottes(@RequestParam int page, @RequestParam int level) throws IOException {
+    public List<Equipments> filter(@RequestParam int page, @RequestParam int level) throws IOException {
         return equipementsDAO.filterEquipements(dir, page, level);
     }
 }

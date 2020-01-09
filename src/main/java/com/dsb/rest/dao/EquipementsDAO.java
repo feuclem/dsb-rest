@@ -29,6 +29,11 @@ public class EquipementsDAO {
         return equipmentsList.stream().skip(pageSize * (page - 1)).limit(pageSize).collect(Collectors.toList());
     }
 
+    public Integer getTotalEquipement(String dir) throws IOException {
+        List<Equipments> equipmentsList = this.deserialized(dir);
+        return equipmentsList.size();
+    }
+
     public List<Equipments> filterEquipements(String dir, int page, int level) throws IOException {
         List<Equipments> equipmentsList = this.deserialized(dir);
         return equipmentsList

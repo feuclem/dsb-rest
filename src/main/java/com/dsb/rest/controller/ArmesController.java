@@ -20,8 +20,13 @@ public class ArmesController {
     }
 
     @GetMapping(path = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> getAllArmes(@RequestParam int page) throws IOException {
+    public List<Equipments> getAll(@RequestParam int page) throws IOException {
         return equipementsDAO.getAllEquipements(dir, page);
+    }
+
+    @GetMapping(path = "/total", produces = MediaType.APPLICATION_JSON_VALUE)
+    public Integer getTotal() throws IOException {
+        return equipementsDAO.getTotalEquipement(dir);
     }
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)

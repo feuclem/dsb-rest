@@ -18,7 +18,7 @@ public class AmulettesControllerTest {
         int page = 1;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -38,7 +38,7 @@ public class AmulettesControllerTest {
         int page = 2;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -54,7 +54,7 @@ public class AmulettesControllerTest {
         int page = 3;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -70,7 +70,7 @@ public class AmulettesControllerTest {
         int page = 4;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -86,7 +86,7 @@ public class AmulettesControllerTest {
         int page = 5;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -102,7 +102,7 @@ public class AmulettesControllerTest {
         int page = 6;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -118,7 +118,7 @@ public class AmulettesControllerTest {
         int page = 7;
 
         // When
-        List<Equipments> result = amulettesController.getAllAmulettes(page);
+        List<Equipments> result = amulettesController.getAll(page);
 
         // Then
         Assert.assertEquals(result.size(), 9);
@@ -131,7 +131,7 @@ public class AmulettesControllerTest {
     @Test
     public void filterAmulettes() throws IOException {
         // When
-        List<Equipments> result = amulettesController.filterAmulettes(1, 200);
+        List<Equipments> result = amulettesController.filter(1, 200);
 
         // Then
         Assert.assertEquals(result.size(), 35);
