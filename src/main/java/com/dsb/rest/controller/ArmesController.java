@@ -32,7 +32,11 @@ public class ArmesController {
     }
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> filterArmes(@RequestParam int page, @RequestParam int level) throws IOException {
-        return equipementsDAO.filterEquipementsByLevel(dir, page, level);
+    public List<Equipments> filter(@RequestParam int page, @RequestParam int level, @RequestParam(required = false) String name) throws IOException {
+        if(name != null) {
+            return equipementsDAO.filterEquipementsByName(dir, page, level, name);
+        } else {
+            return equipementsDAO.filterEquipementsByLevel(dir, page, level);
+        }
     }
 }

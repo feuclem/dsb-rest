@@ -139,7 +139,7 @@ public class EquipementsDAOTest {
     @Test
     public void filterByName() throws IOException {
         // When
-        List<Equipments> result = amulettesController.filterEquipementsByName(dir, 1, "hibou");
+        List<Equipments> result = amulettesController.filterEquipementsByName(dir, 1, 200, "hibou");
 
         // Then
         Assert.assertEquals(result.size(), 2);
