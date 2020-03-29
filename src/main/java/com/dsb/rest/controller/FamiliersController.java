@@ -33,6 +33,6 @@ public class FamiliersController {
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
     public List<Equipments> filterMontures(@RequestParam int page, @RequestParam int level) throws IOException {
-        return equipementsDAO.filterEquipements(dir, page, level);
+        return equipementsDAO.filterEquipementsByLevel(dir, page, level);
     }
 }

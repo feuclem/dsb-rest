@@ -3,7 +3,10 @@ package com.dsb.rest.controller;
 import com.dsb.rest.dao.EquipementsDAO;
 import com.dsb.rest.model.Equipments;
 import org.springframework.http.MediaType;
-import org.springframework.web.bind.annotation.*;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.RestController;
 
 import java.io.IOException;
 import java.util.List;
@@ -29,7 +32,12 @@ public class AmulettesController {
     }
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> filter(@RequestParam int page, @RequestParam int level) throws IOException {
-        return equipementsDAO.filterEquipements(dir, page, level);
+    public List<Equipments> filterByLevel(@RequestParam int page, @RequestParam int level) throws IOException {
+        return equipementsDAO.filterEquipementsByLevel(dir, page, level);
+    }
+
+    @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
+    public List<Equipments> filterByName(@RequestParam int page, @RequestParam String name) throws IOException {
+        return equipementsDAO.filterEquipementsByName(dir, page, name);
     }
 }

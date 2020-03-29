@@ -1,6 +1,5 @@
-package com.dsb.rest.controller;
+package com.dsb.rest.dao;
 
-import com.dsb.rest.dao.EquipementsDAO;
 import com.dsb.rest.model.Equipments;
 import org.junit.Assert;
 import org.junit.Test;
@@ -8,9 +7,9 @@ import org.junit.Test;
 import java.io.IOException;
 import java.util.List;
 
-public class AmulettesControllerTest {
-
-    private AmulettesController amulettesController = new AmulettesController(new EquipementsDAO());
+public class EquipementsDAOTest {
+    private EquipementsDAO amulettesController = new EquipementsDAO();
+    private String dir = "src/main/resources/amulettes.json";
 
     @Test
     public void getAllAmulettesPage1ShouldReturn1To50Elements() throws IOException {
@@ -18,7 +17,7 @@ public class AmulettesControllerTest {
         int page = 1;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -38,7 +37,7 @@ public class AmulettesControllerTest {
         int page = 2;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -54,7 +53,7 @@ public class AmulettesControllerTest {
         int page = 3;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -70,7 +69,7 @@ public class AmulettesControllerTest {
         int page = 4;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -86,7 +85,7 @@ public class AmulettesControllerTest {
         int page = 5;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -102,7 +101,7 @@ public class AmulettesControllerTest {
         int page = 6;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 50);
@@ -118,7 +117,7 @@ public class AmulettesControllerTest {
         int page = 7;
 
         // When
-        List<Equipments> result = amulettesController.getAll(page);
+        List<Equipments> result = amulettesController.getAllEquipements(dir, page);
 
         // Then
         Assert.assertEquals(result.size(), 9);
@@ -129,11 +128,20 @@ public class AmulettesControllerTest {
     }
 
     @Test
-    public void filterAmulettes() throws IOException {
+    public void filterByLevel() throws IOException {
         // When
-        List<Equipments> result = amulettesController.filter(1, 200);
+        List<Equipments> result = amulettesController.filterEquipementsByLevel(dir, 1, 200);
 
         // Then
-        Assert.assertEquals(result.size(), 35);
+        Assert.assertEquals(result.size(), 50);
+    }
+
+    @Test
+    public void filterByName() throws IOException {
+        // When
+        List<Equipments> result = amulettesController.filterEquipementsByName(dir, 1, "hibou");
+
+        // Then
+        Assert.assertEquals(result.size(), 2);
     }
 }
