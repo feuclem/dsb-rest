@@ -1,7 +1,6 @@
 package com.dsb.rest.dao;
 
 import com.dsb.rest.model.Equipments;
-import com.dsb.rest.model.Statistic;
 import org.junit.Assert;
 import org.junit.Test;
 
@@ -148,26 +147,42 @@ public class EquipementsDAOTest {
     }
 
     @Test
-    public void filterByStat() throws IOException {
+    public void filterForStatsAddingFilter() throws IOException {
         // When
-        List<Equipments> result = amulettesController.filterEquipementsByStat(dir, 1, 200, Statistic::hasForce);
+        List<Equipments> result = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force"));
 
         // Then
         Assert.assertEquals(result.size(), 50);
+        Assert.assertEquals(result.get(0).getLvl(), "200");
 
         // When
-        List<Equipments> result2 = amulettesController.filterEquipementsByStat(dir, 1, 200, Statistic::hasAgilite);
+        List<Equipments> result2 = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force", "Agilite"));
 
         // Then
-        Assert.assertEquals(result2.size(), 23);
+        Assert.assertEquals(result2.size(), 20);
     }
 
     @Test
-    public void filterForStats() throws IOException {
+    public void filterForStatsRemovingFilter() throws IOException {
+        // Given
+        amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force"));
+
         // When
-        List<Equipments> result = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force", "Agilité"));
+        List<Equipments> result = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force", "Agilite"));
 
         // Then
-        Assert.assertEquals(result.size(), 23);
+        Assert.assertEquals(result.size(), 20);
+
+        // When
+        List<Equipments> result2 = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Agilite"));
+
+        // Then
+        Assert.assertEquals(result2.size(), 50);
+
+        // When
+        List<Equipments> result3 = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Agilite", "Chance"));
+
+        // Then
+        Assert.assertEquals(result3.size(), 18);
     }
 }
