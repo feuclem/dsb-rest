@@ -4,6 +4,10 @@ import com.fasterxml.jackson.annotation.JsonAlias;
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonProperty;
 
+import java.util.Arrays;
+import java.util.List;
+import java.util.function.Predicate;
+
 public class Statistic {
     @JsonInclude(JsonInclude.Include.NON_NULL)
     @JsonProperty("Vitalité")
@@ -123,7 +127,7 @@ public class Statistic {
     @JsonProperty("Dommages Poussée")
     private FromTo dommagesPoussee;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Résistance Neutre",
+    @JsonAlias({"% Résistance Neutre",
             "1% Résistance Neutre",
             "2% Résistance Neutre",
             "3% Résistance Neutre",
@@ -147,7 +151,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceNeutre;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Résistance Terre",
+    @JsonAlias({"% Résistance Terre",
             "1% Résistance Terre",
             "2% Résistance Terre",
             "3% Résistance Terre",
@@ -171,7 +175,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceTerre;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Résistance Feu",
+    @JsonAlias({"% Résistance Feu",
             "1% Résistance Feu",
             "2% Résistance Feu",
             "3% Résistance Feu",
@@ -195,7 +199,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceFeu;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Résistance Eau",
+    @JsonAlias({"% Résistance Eau",
             "1% Résistance Eau",
             "2% Résistance Eau",
             "3% Résistance Eau",
@@ -219,7 +223,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceEau;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Résistance Air",
+    @JsonAlias({"% Résistance Air",
             "1% Résistance Air",
             "2% Résistance Air",
             "3% Résistance Air",
@@ -267,7 +271,7 @@ public class Statistic {
     @JsonProperty("Retrait PM")
     private FromTo retraitPm;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "Résistance Neutre",
+    @JsonAlias({"Résistance Neutre",
             "2 Résistance Neutre",
             "3 Résistance Neutre",
             "4 Résistance Neutre",
@@ -311,7 +315,7 @@ public class Statistic {
     })
     private FromTo resistanceFixeNeutre;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "Résistance Terre",
+    @JsonAlias({"Résistance Terre",
             "2 Résistance Terre",
             "3 Résistance Terre",
             "4 Résistance Terre",
@@ -355,7 +359,7 @@ public class Statistic {
     })
     private FromTo resistanceFixeTerre;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "Résistance Feu",
+    @JsonAlias({"Résistance Feu",
             "2 Résistance Feu",
             "3 Résistance Feu",
             "4 Résistance Feu",
@@ -399,7 +403,7 @@ public class Statistic {
     })
     private FromTo resistanceFixeFeu;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "Résistance Eau",
+    @JsonAlias({"Résistance Eau",
             "2 Résistance Eau",
             "3 Résistance Eau",
             "4 Résistance Eau",
@@ -443,7 +447,7 @@ public class Statistic {
     })
     private FromTo resistanceFixeEau;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "Résistance Air",
+    @JsonAlias({"Résistance Air",
             "2 Résistance Air",
             "3 Résistance Air",
             "4 Résistance Air",
@@ -493,7 +497,7 @@ public class Statistic {
     @JsonProperty("Invocations")
     private FromTo invocations;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "1% Résistance distance",
+    @JsonAlias({"1% Résistance distance",
             "2% Résistance distance",
             "3% Résistance distance",
             "4% Résistance distance",
@@ -536,7 +540,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceDistance;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "1% Résistance mêlée",
+    @JsonAlias({"1% Résistance mêlée",
             "2% Résistance mêlée",
             "3% Résistance mêlée",
             "4% Résistance mêlée",
@@ -579,7 +583,7 @@ public class Statistic {
     })
     private FromTo pourcentResistanceMelee;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Dommages mêlée",
+    @JsonAlias({"% Dommages mêlée",
             "2% Dommages mêlée",
             "3% Dommages mêlée",
             "4% Dommages mêlée",
@@ -622,7 +626,7 @@ public class Statistic {
     })
     private FromTo pourcentDommagesMelee;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Dommages distance",
+    @JsonAlias({"% Dommages distance",
             "2% Dommages distance",
             "3% Dommages distance",
             "4% Dommages distance",
@@ -671,7 +675,7 @@ public class Statistic {
     @JsonProperty("Dommages Pièges")
     private FromTo dommagesPieges;
     @JsonInclude(JsonInclude.Include.NON_NULL)
-    @JsonAlias({ "% Dommages aux sorts",
+    @JsonAlias({"% Dommages aux sorts",
             "2% Dommages aux sorts",
             "3% Dommages aux sorts",
             "4% Dommages aux sorts",
@@ -1139,5 +1143,89 @@ public class Statistic {
 
     public void setResistanceFixeNeutre(FromTo resistanceFixeNeutre) {
         this.resistanceFixeNeutre = resistanceFixeNeutre;
+    }
+
+
+    public Boolean hasVitalite() {
+        return this.getVitalite() != null;
+    }
+
+    public Boolean hasForce() {
+        return this.getForce() != null;
+    }
+
+    public Boolean hasIntelligence() {
+        return this.getIntelligence() != null;
+    }
+
+    public Boolean hasAgilite() {
+        return this.getAgilite() != null;
+    }
+
+    public Boolean hasChance() {
+        return this.getChance() != null;
+    }
+
+    public Boolean hasPA() {
+        return this.getPa() != null;
+    }
+
+    public Boolean hasPM() {
+        return this.getPm() != null;
+    }
+
+    public Boolean hasPO() {
+        return this.getPo() != null;
+    }
+
+    public Boolean hasCritique() {
+        return this.getCritique() != null;
+    }
+
+    public Boolean hasPuissance() {
+        return this.getPuissance() != null;
+    }
+
+    public static List<MapperPredicateStat> mapperPredicateStatList = Arrays.asList(
+            new MapperPredicateStat("Vitalite", Statistic::hasVitalite),
+            new MapperPredicateStat("Force", Statistic::hasForce),
+            new MapperPredicateStat("Intelligence", Statistic::hasIntelligence),
+            new MapperPredicateStat("Chance", Statistic::hasChance),
+            new MapperPredicateStat("Agilite", Statistic::hasAgilite),
+            new MapperPredicateStat("PA", Statistic::hasPA),
+            new MapperPredicateStat("PM", Statistic::hasPM),
+            new MapperPredicateStat("PO", Statistic::hasPO),
+            new MapperPredicateStat("Critique", Statistic::hasCritique),
+            new MapperPredicateStat("Puissance", Statistic::hasPuissance)
+    );
+
+    public static Predicate<Statistic> getPredicateByLabel(String label) {
+        return mapperPredicateStatList.stream().filter(mapperPredicateStat -> mapperPredicateStat.getLabel().equals(label)).findFirst().get().getPredicate();
+    }
+}
+
+class MapperPredicateStat {
+    String label;
+    Predicate<Statistic> predicate;
+
+    public MapperPredicateStat(String label, Predicate<Statistic> predicate) {
+        this.label = label;
+        this.predicate = predicate;
+    }
+
+    public String getLabel() {
+        return label;
+    }
+
+    public void setLabel(String label) {
+        this.label = label;
+    }
+
+    public Predicate<Statistic> getPredicate() {
+        return predicate;
+    }
+
+    public void setPredicate(Predicate<Statistic> predicate) {
+        this.predicate = predicate;
     }
 }

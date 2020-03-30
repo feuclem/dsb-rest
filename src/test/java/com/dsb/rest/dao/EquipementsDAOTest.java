@@ -1,10 +1,12 @@
 package com.dsb.rest.dao;
 
 import com.dsb.rest.model.Equipments;
+import com.dsb.rest.model.Statistic;
 import org.junit.Assert;
 import org.junit.Test;
 
 import java.io.IOException;
+import java.util.Arrays;
 import java.util.List;
 
 public class EquipementsDAOTest {
@@ -143,5 +145,29 @@ public class EquipementsDAOTest {
 
         // Then
         Assert.assertEquals(result.size(), 2);
+    }
+
+    @Test
+    public void filterByStat() throws IOException {
+        // When
+        List<Equipments> result = amulettesController.filterEquipementsByStat(dir, 1, 200, Statistic::hasForce);
+
+        // Then
+        Assert.assertEquals(result.size(), 50);
+
+        // When
+        List<Equipments> result2 = amulettesController.filterEquipementsByStat(dir, 1, 200, Statistic::hasAgilite);
+
+        // Then
+        Assert.assertEquals(result2.size(), 23);
+    }
+
+    @Test
+    public void filterForStats() throws IOException {
+        // When
+        List<Equipments> result = amulettesController.filter(dir, 1, 200, null, Arrays.asList("Force", "Agilité"));
+
+        // Then
+        Assert.assertEquals(result.size(), 23);
     }
 }

@@ -1,7 +1,9 @@
 package com.dsb.rest.dao;
 
 import com.dsb.rest.model.Equipments;
+import com.dsb.rest.model.Statistic;
 import com.fasterxml.jackson.databind.ObjectMapper;
+import org.springframework.lang.Nullable;
 import org.springframework.stereotype.Repository;
 
 import java.io.FileReader;
@@ -10,6 +12,7 @@ import java.util.Arrays;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.List;
+import java.util.function.Predicate;
 import java.util.regex.Pattern;
 import java.util.stream.Collector;
 import java.util.stream.Collectors;
@@ -38,6 +41,23 @@ public class EquipementsDAO {
         return equipmentsList.size();
     }
 
+    public List<Equipments> filter(String dir, int page, int level, @Nullable String name, @Nullable List<String> stats) throws IOException {
+        if(name != null) {
+            return this.filterEquipementsByName(dir, page, level, name);
+        } else if(stats != null && stats.size() > 1) {
+            stats.forEach(s -> {
+                try {
+                    this.filterEquipementsByStat(dir, page, level, Statistic.getPredicateByLabel(s));
+                } catch (IOException e) {
+                    e.printStackTrace();
+                }
+            });
+            return equipmentsListSort;
+        } else {
+            return this.filterEquipementsByLevel(dir, page, level);
+        }
+    }
+
     public List<Equipments> filterEquipementsByLevel(String dir, int page, int level) throws IOException {
         List<Equipments> equipmentsList = this.deserialized(dir);
 
@@ -57,6 +77,24 @@ public class EquipementsDAO {
         equipmentsListSort = equipmentsList
                 .stream()
                 .filter(equipments -> Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(equipments.getName()).find())
+                .filter(equipments -> Integer.parseInt(equipments.getLvl()) <= level)
+                .skip(pageSize * (page - 1))
+                .limit(pageSize)
+                .collect(Collectors.toList());
+
+        return equipmentsListSort;
+    }
+
+    public List<Equipments> filterEquipementsByStat(String dir, int page, int level, Predicate<Statistic> predicate) throws IOException {
+        List<Equipments> equipmentsList;
+        if(equipmentsListSort != null) {
+            equipmentsList = equipmentsListSort;
+        } else {
+            equipmentsList = this.deserialized(dir);
+        }
+        equipmentsListSort = equipmentsList
+                .stream()
+                .filter(equipments -> equipments.getStats().stream().anyMatch(predicate))
                 .filter(equipments -> Integer.parseInt(equipments.getLvl()) <= level)
                 .skip(pageSize * (page - 1))
                 .limit(pageSize)
