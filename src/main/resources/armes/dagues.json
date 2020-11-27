@@ -1,0 +1,4553 @@
+[
+  {
+    "_id": 208,
+    "name": "Dagues de Fouraille",
+    "level": "13",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5003.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 214,
+    "name": "Dagues de Croclage",
+    "level": "17",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5004.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 218,
+    "name": "Bashers",
+    "level": "29",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5005.png",
+    "statistics": [
+      {},
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 219,
+    "name": "Blessdags",
+    "level": "64",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5055.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "18"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "6"
+        }
+      },
+      {
+        "Force": {
+          "min": "-11",
+          "max": "-20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 220,
+    "name": "Chakra Style",
+    "level": "73",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5008.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 340,
+    "name": "Leurnettes",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5009.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "3"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 341,
+    "name": "Dagues Eurfolles",
+    "level": "46",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5010.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 896,
+    "name": "Dagues Sylvestres",
+    "level": "27",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5006.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 900,
+    "name": "Dagues Aiguisées",
+    "level": "39",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5010.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 919,
+    "name": "Dagues Ancestrales",
+    "level": "34",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5008.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "-200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Force": {
+          "min": "-40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1029,
+    "name": "Couteau à Stek",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5013.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-50"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1030,
+    "name": "Queues de Chatons",
+    "level": "25",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5020.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "7"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "25"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1031,
+    "name": "Dagues Cruelles d\u0027Elorie Entuwan",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5007.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 1035,
+    "name": "Lame de Fon",
+    "level": "56",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5014.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "14"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+13)"
+      }
+    ]
+  },
+  {
+    "_id": 1039,
+    "name": "Dagues Fourbesques",
+    "level": "67",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5011.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Force": {
+          "min": "-35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1040,
+    "name": "Lames Sanglantes D\u0027Ortimus Contrari",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5019.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1041,
+    "name": "Epée Cassée du Chevalier Malchanceux",
+    "level": "35",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5043.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "26"
+        }
+      },
+      {
+        "Force": {
+          "min": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1369,
+    "name": "Les Lames en Table",
+    "level": "33",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5013.png",
+    "statistics": [
+      {},
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1370,
+    "name": "L\u0027Ergot Mina",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5014.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 1371,
+    "name": "Dagues Eulasse",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5010.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1372,
+    "name": "Dagues Aj\u0027Deh\u0027Là",
+    "level": "44",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5019.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-50"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1373,
+    "name": "Le Rasoir Infernal",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5017.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1374,
+    "name": "Dagues Tylo",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5012.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-30"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1504,
+    "name": "Dagues O\u0027Bert",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1934,
+    "name": "Couteau de Chasse",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/20014.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 3647,
+    "name": "La Thor-Boyaux",
+    "level": "83",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5031.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 3648,
+    "name": "Daguette du Captain Chafer",
+    "level": "83",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5032.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "22"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 3649,
+    "name": "Dague Rafeuse",
+    "level": "91",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5033.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "9"
+        }
+      },
+      {},
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 3650,
+    "name": "Dague Régah",
+    "level": "119",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5034.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Force": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 3651,
+    "name": "Dague Lutination",
+    "level": "90",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5035.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6516,
+    "name": "Dagues R\u0027Hoh",
+    "level": "121",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5041.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6517,
+    "name": "Dagues Hischantes",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5042.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6784,
+    "name": "Dagues de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5010.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6924,
+    "name": "Dagues du Bandit",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5009.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 25,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6981,
+    "name": "Dagues Lassay",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5044.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "13"
+        }
+      },
+      {},
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Pièges": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "300"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6982,
+    "name": "Dagues Honies",
+    "level": "46",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5050.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6983,
+    "name": "Dagues Réceuses",
+    "level": "143",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5047.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 6984,
+    "name": "Dagues de l\u0027Apprenti Tueur de Bouftons",
+    "level": "113",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5046.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 7188,
+    "name": "Dagues Rhumes",
+    "level": "113",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5048.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "18"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 7190,
+    "name": "Dagues Maydhyn China",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5045.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "20"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7191,
+    "name": "Sertisseur de Ramougre",
+    "level": "127",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5049.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "14"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Pièges": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7256,
+    "name": "Dagues Aerdala",
+    "level": "62",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5051.png",
+    "statistics": [
+      {},
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 35,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 8092,
+    "name": "Les Dagues du Bouwin",
+    "level": "134",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5056.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "25"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8414,
+    "name": "Dagues du Dragoeuf",
+    "level": "128",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5058.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "5",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "130"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8444,
+    "name": "Dagues du Rat Noir",
+    "level": "108",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5059.png",
+    "statistics": [
+      {},
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Pièges": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 68,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8513,
+    "name": "Scalpel de Bworknroll",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5060.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "20"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "-51",
+          "max": "-150"
+        }
+      },
+      {
+        "Force": {
+          "min": "-21",
+          "max": "-40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "1",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8598,
+    "name": "Dagues Ruyère",
+    "level": "67",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5061.png",
+    "statistics": [
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8599,
+    "name": "Griffettes",
+    "level": "69",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5062.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 8926,
+    "name": "Dague Adou",
+    "level": "175",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5065.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "8",
+          "max": "13"
+        }
+      },
+      {},
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 8927,
+    "name": "Dagues Eudin",
+    "level": "171",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5066.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Pièges": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8928,
+    "name": "Dagues Ruik",
+    "level": "158",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5067.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 8929,
+    "name": "Kriss Toubal",
+    "level": "149",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5068.png",
+    "statistics": [
+      {},
+      {},
+      {},
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9137,
+    "name": "Couteaux à Champignons",
+    "level": "187",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5069.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "14"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 119,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 9176,
+    "name": "Lame Assacre",
+    "level": "182",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5070.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "17"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 108,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 9711,
+    "name": "Dague Hi\u0027Don\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5072.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "12"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9712,
+    "name": "Dague Hi\u0027Bol\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5071.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9713,
+    "name": "Dague Hi\u0027Mov\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5073.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "6",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9716,
+    "name": "Dague Haih\u0027Ri\u0027Don\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5074.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 9717,
+    "name": "Dague Ho\u0027Rille\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5075.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 9974,
+    "name": "Tailladeuse de Manche",
+    "level": "2",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5017.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "3"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11357,
+    "name": "Dague de Grouillot",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5078.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11629,
+    "name": "Youyettes",
+    "level": "164",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5077.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "24"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance (pièges)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-7",
+          "max": "-10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 11751,
+    "name": "Dagues Imauve",
+    "level": "176",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5079.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "16"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 11752,
+    "name": "Dagues Açantes",
+    "level": "183",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5080.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "-3",
+          "max": "-4"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11753,
+    "name": "Dague Hirr",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5081.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "10",
+          "max": "16"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11875,
+    "name": "Will Killson",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5082.png",
+    "statistics": [
+      {},
+      {},
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (4 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 12038,
+    "name": "Dagues d\u0027Hichète",
+    "level": "54",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5083.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 13848,
+    "name": "Couteau de Mer",
+    "level": "124",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5085.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "17"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-2",
+          "max": "-3"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 14131,
+    "name": "Dagues Ricol",
+    "level": "198",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5086.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "75"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Soins": {
+          "min": "-7",
+          "max": "-10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 14132,
+    "name": "Dagues Érhy",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5087.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "22"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 15493,
+    "name": "Dagues de Srambad",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5093.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "18"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 18017,
+    "name": "Dagoulinantes",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5094.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "26",
+          "max": "32"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Chance": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 18437,
+    "name": "Dagues Cacterre",
+    "level": "130",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5095.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "120"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 18780,
+    "name": "Hachoirs de Viandargh",
+    "level": "195",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5096.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 19268,
+    "name": "Dagues d\u0027Ilyzaelle",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/5097.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Dague",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+6)"
+      }
+    ]
+  }
+]

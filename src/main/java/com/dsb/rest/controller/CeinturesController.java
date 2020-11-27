@@ -1,7 +1,7 @@
 package com.dsb.rest.controller;
 
 import com.dsb.rest.dao.EquipementsDAO;
-import com.dsb.rest.model.Equipments;
+import com.dsb.rest.model.Equipment;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
@@ -22,7 +22,7 @@ public class CeinturesController {
     }
 
     @GetMapping(path = "/all", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> getAll(@RequestParam int page) throws IOException {
+    public List<Equipment> getAll(@RequestParam int page) throws IOException {
         return equipementsDAO.getAllEquipements(dir, page);
     }
 
@@ -32,7 +32,7 @@ public class CeinturesController {
     }
 
     @GetMapping(path = "/", produces = MediaType.APPLICATION_JSON_VALUE)
-    public List<Equipments> filter(@RequestParam int page, @RequestParam int level, @RequestParam(required = false) String name, @RequestParam(required = false) List<String> stats) throws IOException {
+    public List<Equipment> filter(@RequestParam int page, @RequestParam int level, @RequestParam(required = false) String name, @RequestParam(required = false) List<String> stats) throws IOException {
             return equipementsDAO.filter(dir, page, level, name, stats);
     }
 }

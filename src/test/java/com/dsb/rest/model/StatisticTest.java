@@ -8,8 +8,8 @@ public class StatisticTest {
     @Test
     public void hasForceTrue() {
         FromTo fromTo = new FromTo();
-        fromTo.setFrom("1");
-        fromTo.setTo("1");
+        fromTo.setMin("1");
+        fromTo.setMax("1");
 
         Statistic statistic = new Statistic();
         statistic.setForce(fromTo);

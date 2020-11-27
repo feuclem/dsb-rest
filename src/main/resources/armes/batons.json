@@ -1,0 +1,7119 @@
+[
+  {
+    "_id": 140,
+    "name": "Bâton de Boisaille",
+    "level": "9",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 183,
+    "name": "Bâton Feuillu",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4002.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "17"
+        }
+      },
+      {
+        "Force": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 188,
+    "name": "Bâton Kouyu",
+    "level": "8",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4003.png",
+    "statistics": [
+      {},
+      {
+        "Sagesse": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 194,
+    "name": "Bâton Spirituel",
+    "level": "16",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4008.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 200,
+    "name": "God Rod",
+    "level": "67",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4007.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 201,
+    "name": "Hook",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4004.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Force": {
+          "min": "-1",
+          "max": "-20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 204,
+    "name": "Kryst O\u0027Boul",
+    "level": "68",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4063.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-11",
+          "max": "-20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 38,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 320,
+    "name": "Bâton du Tabi",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4006.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 335,
+    "name": "Bâton du Bwork Mage",
+    "level": "58",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "-30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 336,
+    "name": "Bâton du Grand Pa Wabbit",
+    "level": "32",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "9"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 436,
+    "name": "Bâton en Racine d\u0027Abraknyde",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 619,
+    "name": "Bâton du Maître des Bouftous",
+    "level": "85",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4006.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Force": {
+          "min": "-50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 657,
+    "name": "Bâton du Maître des Tofus",
+    "level": "56",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4006.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 658,
+    "name": "Bâton du Maître des Tabis",
+    "level": "34",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4006.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "17"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 742,
+    "name": "Bâton Cornu",
+    "level": "29",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-1",
+          "max": "-10"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 791,
+    "name": "Abraknydi Vivitus",
+    "level": "34",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 970,
+    "name": "Bâton du Wa Wabbit",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4021.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "25",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 40,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1147,
+    "name": "Bâton de fausse magie",
+    "level": "35",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4016.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "21"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 1151,
+    "name": "Bâton Dakn",
+    "level": "37",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4019.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "21"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1157,
+    "name": "Bâton-Boule de Voyante",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "16"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1162,
+    "name": "Bâton des Rois",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4017.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "-75"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 1363,
+    "name": "Bâton Tont\u0027Ata",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4005.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-30"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1364,
+    "name": "Bâton d\u0027Oubli",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4011.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 1365,
+    "name": "La Canne Hête",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4068.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 1366,
+    "name": "Bâton de Bouftier",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4009.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Force": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1367,
+    "name": "Bâton de Dina, dit \u0027le Mythe\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4006.png",
+    "statistics": [
+      {},
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 1368,
+    "name": "La Lance à un \"110\"",
+    "level": "29",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4018.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 2066,
+    "name": "Bâton du Kanigrou",
+    "level": "53",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4022.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "18"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "35"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 2417,
+    "name": "Abraton",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4023.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 3,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 2640,
+    "name": "Bâton Carnivore",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4024.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 7,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 3652,
+    "name": "Bâton de Marie Aigue",
+    "level": "109",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4030.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6442,
+    "name": "Bâton d\u0027Aga Dou",
+    "level": "81",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4031.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "27"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6454,
+    "name": "Abraton Sombre",
+    "level": "87",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4023.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "29"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 6492,
+    "name": "Bâton du Wobot",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4037.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 293,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6521,
+    "name": "Kelinobranche",
+    "level": "129",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4038.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6522,
+    "name": "La Racine Cinati",
+    "level": "116",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4039.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6523,
+    "name": "La Racine Hagogue",
+    "level": "120",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4040.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "250"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6524,
+    "name": "Racine Sauvageonne",
+    "level": "54",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4041.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6525,
+    "name": "Bâton du Féca",
+    "level": "94",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4042.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "37"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6725,
+    "name": "Bâton de l\u0027Homme Ours",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4046.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 12,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6762,
+    "name": "Fourbasse-Ton",
+    "level": "102",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4044.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "16"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "8",
+          "max": "12"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 16,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6769,
+    "name": "Bâton de Farle",
+    "level": "76",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4043.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "26"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Force": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 17,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 6782,
+    "name": "Bâton de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 6792,
+    "name": "La Plantouze des Champs",
+    "level": "15",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4045.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 18,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7022,
+    "name": "Bâton de Sangroku",
+    "level": "120",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4047.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7037,
+    "name": "Canne de Mamie Bonbon",
+    "level": "98",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4048.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "110"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7176,
+    "name": "Racine Cithi",
+    "level": "143",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4053.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "16"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7178,
+    "name": "Racine Horodon",
+    "level": "86",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4058.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "2",
+          "max": "11"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7181,
+    "name": "Racine Sémilla",
+    "level": "106",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4054.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "18"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7182,
+    "name": "Racine Hécouanone",
+    "level": "103",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4060.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "35"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "130"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 7183,
+    "name": "Racine Huzohide",
+    "level": "88",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4055.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7184,
+    "name": "Racine Histre",
+    "level": "86",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4056.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7185,
+    "name": "Racine Hécure",
+    "level": "101",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4057.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "31"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7189,
+    "name": "Rod Gerse",
+    "level": "176",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4059.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "21"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "21"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7204,
+    "name": "Bâton du Shodanwa",
+    "level": "46",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4049.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "19"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7205,
+    "name": "Bâton du Nidanwa",
+    "level": "62",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4050.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Force": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 7206,
+    "name": "Bâton du Sandanwa",
+    "level": "77",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4051.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7207,
+    "name": "Bâton du Yondanwa",
+    "level": "93",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4052.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "27"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "90"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7254,
+    "name": "Bâton Akwadala",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4061.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "5",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 34,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7890,
+    "name": "Bâton du Koulosse",
+    "level": "73",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4062.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "-1",
+          "max": "-2"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Force": {
+          "min": "-100"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-100"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-100"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-100"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8090,
+    "name": "Bâton des Caraïbes",
+    "level": "114",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4064.png",
+    "statistics": [
+      {},
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "100"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8091,
+    "name": "La Canne Bière",
+    "level": "133",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4065.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "16"
+        }
+      },
+      {},
+      {},
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 8275,
+    "name": "Sceptre du Minotot",
+    "level": "151",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4067.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "27"
+        }
+      },
+      {},
+      {},
+      {
+        "Chance": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "120"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 57,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8297,
+    "name": "Bâton du Dragoeuf",
+    "level": "124",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4066.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "12",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "25"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8300,
+    "name": "Bâton de Shika",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4069.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "15",
+          "max": "26"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 53,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8607,
+    "name": "Le Bâton Cloutay",
+    "level": "107",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4072.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "100"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8608,
+    "name": "La Bastonneuze",
+    "level": "85",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4073.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "28"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "91",
+          "max": "130"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8836,
+    "name": "Tige du Brouture",
+    "level": "119",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4075.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8837,
+    "name": "Bâton du Maître Zoth",
+    "level": "158",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4076.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 94,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 8838,
+    "name": "Rhizome du Tynril",
+    "level": "186",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4077.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "21"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8849,
+    "name": "Racine de Fécorce",
+    "level": "136",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4078.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "16"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "9",
+          "max": "16"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-4",
+          "max": "-5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 8850,
+    "name": "Racine de Floribonde",
+    "level": "144",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4079.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9136,
+    "name": "Bâton Champmanique",
+    "level": "191",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4080.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "27"
+        }
+      },
+      {},
+      {},
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 9755,
+    "name": "Bâton Bah\u0027Pik\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4083.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "7",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 9756,
+    "name": "Bâton Bouk\u0027Tou\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4084.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9757,
+    "name": "Bâton Boh\u0027La\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4085.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "19"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9758,
+    "name": "Bâton Lav\u0027Heur\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4086.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "14",
+          "max": "22"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9759,
+    "name": "Bâton Lap\u0027Louz\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4087.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "4",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "4",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "4",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 10127,
+    "name": "Bâton du bandit baroudeur",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4089.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10630,
+    "name": "Bâton de Gobeuf",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4090.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 10899,
+    "name": "Bâton du Manitou Zoth",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4091.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "17"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10962,
+    "name": "Bâton de Rapine",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4092.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 11353,
+    "name": "Bâton de Karotz",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4098.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "16"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11365,
+    "name": "Bâton de Piggy Paupe",
+    "level": "57",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4099.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "10",
+          "max": "17"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11514,
+    "name": "Grésilosceptre",
+    "level": "192",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4094.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 174,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11633,
+    "name": "Bâton K\u0027Tueuh",
+    "level": "161",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4097.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 11634,
+    "name": "Bâton du Shamansot",
+    "level": "130",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4095.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "18",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11635,
+    "name": "Bâton du Harpirate",
+    "level": "154",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4096.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "250"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 193,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11749,
+    "name": "Bâton Brelle",
+    "level": "188",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4100.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "22",
+          "max": "33"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11750,
+    "name": "Bâton Brageut",
+    "level": "195",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4102.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "23"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "18"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 11983,
+    "name": "Sceptre du Kanniboul Ebil",
+    "level": "47",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4103.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "5",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 194,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 12030,
+    "name": "Bâton de Logram",
+    "level": "51",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4104.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "13",
+          "max": "20"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 12042,
+    "name": "Bâton d\u0027Haku",
+    "level": "47",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4106.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {}
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 12057,
+    "name": "Le Thanos",
+    "level": "172",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4101.png",
+    "statistics": [
+      {},
+      {},
+      {},
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "-16",
+          "max": "-20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 12099,
+    "name": "Bâton des Prophètes",
+    "level": "169",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4105.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "20",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 208,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 12677,
+    "name": "Bâton de Daïgoro",
+    "level": "88",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4108.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "17"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 229,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 13063,
+    "name": "Canne Hassukre Édulcorée",
+    "level": "165",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4111.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "24",
+          "max": "35"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "141",
+          "max": "180"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 13245,
+    "name": "Canne Hassukre",
+    "level": "165",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4111.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "22",
+          "max": "32"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "141",
+          "max": "180"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 13649,
+    "name": "Rouleau à Pâtisserie d\u0027Aermyne",
+    "level": "194",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4113.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "14"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "-71",
+          "max": "-100"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-71",
+          "max": "-100"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-71",
+          "max": "-100"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-71",
+          "max": "-100"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-11",
+          "max": "-15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 262,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 13894,
+    "name": "Canne Harr",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4114.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "11"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "-11",
+          "max": "-15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 14166,
+    "name": "Bâton Beau",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4115.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "24"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "22"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "51",
+          "max": "75"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-11",
+          "max": "-15"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 14274,
+    "name": "Bâton Fracass",
+    "level": "126",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4116.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "401",
+          "max": "500"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 14640,
+    "name": "Kalypsoton",
+    "level": "139",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4120.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "24"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-4",
+          "max": "-6"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 313,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 16169,
+    "name": "Bâton du Chêne Mou",
+    "level": "140",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4125.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "22",
+          "max": "28"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "22",
+          "max": "28"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 17100,
+    "name": "Bâton de Zatoïshwan",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4126.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "19"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "15",
+          "max": "19"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 380,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 17682,
+    "name": "Sceptre du Roi Joueur",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4129.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Chance": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 18010,
+    "name": "Bâthon",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4130.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "34",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 19267,
+    "name": "Lance corrompue",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4133.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 19606,
+    "name": "Lance Horselé",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4134.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "-30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 20848,
+    "name": "Sceptre Zor",
+    "level": "61",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4136.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "20",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "76",
+          "max": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "13",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "29",
+          "max": "45"
+        }
+      }
+    ],
+    "type": "Bâton",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+20)"
+      }
+    ]
+  }
+]

@@ -1,6 +1,6 @@
 package com.dsb.rest.dao;
 
-import com.dsb.rest.model.Equipments;
+import com.dsb.rest.model.Equipment;
 import com.dsb.rest.model.Statistic;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.springframework.lang.Nullable;
@@ -20,31 +20,31 @@ import java.util.stream.Collectors;
 public class EquipementsDAO {
     private static final int pageSize = 50;
 
-    private List<Equipments> equipmentsListSort = null;
+    private List<Equipment> equipmentListSort = null;
 
     private String name = null;
 
     private List<String> lastFilteredStats = null;
 
-    private List<Equipments> deserialized(String dir) throws IOException {
+    private List<Equipment> deserialized(String dir) throws IOException {
         ObjectMapper objectMapper = new ObjectMapper();
-        Equipments[] equipments = objectMapper.readValue(new FileReader(dir), Equipments[].class);
-        return Arrays.asList(equipments);
+        Equipment[] equipment = objectMapper.readValue(new FileReader(dir), Equipment[].class);
+        return Arrays.asList(equipment);
     }
 
-    public List<Equipments> getAllEquipements(String dir, int page) throws IOException {
-        List<Equipments> equipmentsList = this.deserialized(dir);
+    public List<Equipment> getAllEquipements(String dir, int page) throws IOException {
+        List<Equipment> equipmentList = this.deserialized(dir);
 
-        equipmentsList = equipmentsList.stream().sorted(Comparator.comparingInt((Equipments e) -> Integer.parseInt(e.getLvl()))).collect(toListReversed());
-        return equipmentsList.stream().skip(pageSize * (page - 1)).limit(pageSize).collect(Collectors.toList());
+        equipmentList = equipmentList.stream().sorted(Comparator.comparingInt((Equipment e) -> Integer.parseInt(e.getLevel()))).collect(toListReversed());
+        return equipmentList.stream().skip(pageSize * (page - 1)).limit(pageSize).collect(Collectors.toList());
     }
 
     public Integer getTotalEquipement(String dir) throws IOException {
-        List<Equipments> equipmentsList = this.deserialized(dir);
-        return equipmentsList.size();
+        List<Equipment> equipmentList = this.deserialized(dir);
+        return equipmentList.size();
     }
 
-    public List<Equipments> filter(String dir, int page, int level, @Nullable String name, @Nullable List<String> stats) throws IOException {
+    public List<Equipment> filter(String dir, int page, int level, @Nullable String name, @Nullable List<String> stats) throws IOException {
         if (name != null) {
             return this.filterEquipementsByName(dir, page, level, name);
         } else if (stats != null && stats.size() >= 1) {
@@ -54,77 +54,72 @@ public class EquipementsDAO {
         }
     }
 
-    public List<Equipments> filterEquipementsByLevel(String dir, int page, int level) throws IOException {
-        List<Equipments> equipmentsList;
+    public List<Equipment> filterEquipementsByLevel(String dir, int page, int level) throws IOException {
+        List<Equipment> equipmentList;
 
-        if (equipmentsListSort != null) {
-            equipmentsList = equipmentsListSort;
+        if (equipmentListSort != null) {
+            equipmentList = equipmentListSort;
         } else {
-            equipmentsList = this.deserialized(dir);
+            equipmentList = this.deserialized(dir);
         }
 
-        equipmentsListSort = equipmentsList
+        equipmentListSort = equipmentList
                 .stream()
-                .filter(equipments -> Integer.parseInt(equipments.getLvl()) <= level)
+                .filter(equipments -> Integer.parseInt(equipments.getLevel()) >= level)
                 .skip(pageSize * (page - 1))
                 .limit(pageSize)
                 .collect(Collectors.toList());
 
-        return equipmentsListSort;
+        return equipmentListSort;
     }
 
-    public List<Equipments> filterEquipementsByName(String dir, int page, int level, String name) throws IOException {
-        List<Equipments> equipmentsList = this.deserialized(dir);
+    public List<Equipment> filterEquipementsByName(String dir, int page, int level, String name) throws IOException {
+        List<Equipment> equipmentList = this.deserialized(dir);
 
-        equipmentsListSort = equipmentsList
+        equipmentListSort = equipmentList
                 .stream()
                 .filter(equipments -> Pattern.compile(Pattern.quote(name), Pattern.CASE_INSENSITIVE).matcher(equipments.getName()).find())
-                .filter(equipments -> Integer.parseInt(equipments.getLvl()) <= level)
+                .filter(equipments -> Integer.parseInt(equipments.getLevel()) <= level)
                 .skip(pageSize * (page - 1))
                 .limit(pageSize)
                 .collect(toListReversed());
 
-        return equipmentsListSort;
+        return equipmentListSort;
     }
 
-    public List<Equipments> filterEquipementsByStat(String dir, int page, int level, List<String> stats) throws IOException {
-        List<Equipments> equipmentsList;
-        if (equipmentsListSort != null) {
+    public List<Equipment> filterEquipementsByStat(String dir, int page, int level, List<String> stats) throws IOException {
+        List<Equipment> equipmentList;
+        if (equipmentListSort != null) {
             if (stats.size() < this.lastFilteredStats.size()) {
-                equipmentsList = this.deserialized(dir);
+                equipmentList = this.deserialized(dir);
             } else {
-                equipmentsList = equipmentsListSort;
+                equipmentList = equipmentListSort;
             }
         } else {
-            equipmentsList = this.deserialized(dir);
+            equipmentList = this.deserialized(dir);
         }
 
         this.lastFilteredStats = stats;
 
-        stats.forEach(s -> equipmentsListSort = equipmentsList
+        stats.forEach(s -> equipmentListSort = equipmentList
                 .stream()
-                .filter(equipments -> equipments.getStats().stream().anyMatch(Statistic.getPredicateByLabel(s)))
-                .filter(equipments -> Integer.parseInt(equipments.getLvl()) <= level)
+                .filter(equipments -> equipments.getStatistics().stream().anyMatch(Statistic.getPredicateByLabel(s)))
+                .filter(equipments -> Integer.parseInt(equipments.getLevel()) <= level)
                 .collect(Collectors.toList())
         );
 
-        equipmentsListSort = equipmentsListSort
+        equipmentListSort = equipmentListSort
                 .stream()
-                .sorted(Comparator.comparingInt((Equipments e) -> Integer.parseInt(e.getLvl())))
+                .sorted(Comparator.comparingInt((Equipment e) -> Integer.parseInt(e.getLevel())))
                 .collect(toListReversed());
 
-        equipmentsListSort = equipmentsListSort
+        equipmentListSort = equipmentListSort
                 .stream()
                 .skip(pageSize * (page - 1))
                 .limit(pageSize)
                 .collect(Collectors.toList());
 
-        return equipmentsListSort;
-    }
-
-    public List<Equipments> reversedEquipements() {
-        equipmentsListSort = equipmentsListSort.stream().sorted(Comparator.comparingInt((Equipments e) -> Integer.parseInt(e.getLvl()))).collect(toListReversed());
-        return equipmentsListSort;
+        return equipmentListSort;
     }
 
     private static <T> Collector<T, ?, List<T>> toListReversed() {

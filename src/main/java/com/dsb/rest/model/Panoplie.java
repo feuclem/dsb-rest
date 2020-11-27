@@ -9,7 +9,7 @@ public class Panoplie {
     private List<Bonus> bonus;
     private List<Integer> equipment_id;
     private List<Integer> weapon_id;
-    private List<Equipments> equipments;
+    private List<Equipment> equipment;
 
     public int get_id() {
         return _id;
@@ -51,12 +51,12 @@ public class Panoplie {
         this.equipment_id = equipment_id;
     }
 
-    public List<Equipments> getEquipments() {
-        return equipments;
+    public List<Equipment> getEquipments() {
+        return equipment;
     }
 
-    public void setEquipments(List<Equipments> equipments) {
-        this.equipments = equipments;
+    public void setEquipments(List<Equipment> equipment) {
+        this.equipment = equipment;
     }
 
     public List<Integer> getWeapon_id() {

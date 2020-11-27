@@ -1,25 +1,25 @@
 package com.dsb.rest.model;
 
 public class FromTo {
-    private String from;
-    private String to;
+    private String min;
+    private String max;
 
     public FromTo() {
     }
 
-    public String getFrom() {
-        return from;
+    public String getMin() {
+        return min;
     }
 
-    public void setFrom(String from) {
-        this.from = from;
+    public void setMin(String min) {
+        this.min = min;
     }
 
-    public String getTo() {
-        return to;
+    public String getMax() {
+        return max;
     }
 
-    public void setTo(String to) {
-        this.to = to;
+    public void setMax(String max) {
+        this.max = max;
     }
 }

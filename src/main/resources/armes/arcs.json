@@ -1,0 +1,4843 @@
+[
+  {
+    "_id": 91,
+    "name": "Arc de Boisaille",
+    "level": "7",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2001.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 267,
+    "name": "Arc Déroutant",
+    "level": "19",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2003.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 270,
+    "name": "Xaveur",
+    "level": "58",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2005.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "-40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 9"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 272,
+    "name": "Nomoon",
+    "level": "28",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2009.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "-10"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 12"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 273,
+    "name": "La Corde de Yamato",
+    "level": "31",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2010.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-20"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 329,
+    "name": "Arc de Triomphe",
+    "level": "27",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2011.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Force": {
+          "min": "-10"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 10"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 331,
+    "name": "Arc Hancihaile",
+    "level": "22",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2016.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "2",
+          "max": "6"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 11"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 332,
+    "name": "Arc de Jeanne",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2015.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "16"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 9"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 337,
+    "name": "Arc du Bwork Archer",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2004.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 462,
+    "name": "Arc en Racine d\u0027Abraknyde",
+    "level": "25",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "3",
+          "max": "7"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "-100"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-15"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 592,
+    "name": "Corde d\u0027Ivan Nowé",
+    "level": "36",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 640,
+    "name": "Arc des Rivages",
+    "level": "46",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2038.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "15"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 10"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 828,
+    "name": "Arc Sifflant",
+    "level": "11",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2015.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 829,
+    "name": "Arc Hade",
+    "level": "5",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2001.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1095,
+    "name": "Arc Buse",
+    "level": "24",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2017.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1112,
+    "name": "Arc en Corne de Bouftou",
+    "level": "38",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2022.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1116,
+    "name": "Arc dit Kéha, version standard",
+    "level": "47",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2021.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "4",
+          "max": "19"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "-30"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1120,
+    "name": "Arc Ecologique",
+    "level": "33",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2020.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1124,
+    "name": "Arc de Cristal",
+    "level": "56",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2018.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "18"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "3"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "3"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "3"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "-10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 1128,
+    "name": "Arc du Roi des Borins",
+    "level": "72",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2023.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+14)"
+      }
+    ]
+  },
+  {
+    "_id": 1350,
+    "name": "Arc Holic",
+    "level": "13",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2004.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "14"
+        }
+      },
+      {
+        "Chance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 1351,
+    "name": "Arc du Xueluom",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2051.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "14",
+          "max": "19"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1352,
+    "name": "Arc de Boo",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2006.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "3",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "3",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-30"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1353,
+    "name": "Arc à Poulie Sciée",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2010.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1354,
+    "name": "L\u0027Arc à Hick",
+    "level": "49",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2011.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "1",
+          "max": "3"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "1",
+          "max": "3"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-1",
+          "max": "-30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 1355,
+    "name": "Arc Hidsad",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2012.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1620,
+    "name": "Abrarc",
+    "level": "39",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2024.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1942,
+    "name": "Arc de Chasse",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/20010.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/20 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 2341,
+    "name": "Arc de Mech Riorraw",
+    "level": "90",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2008.png",
+    "statistics": [
+      {},
+      {
+        "Agilité": {
+          "min": "-150"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "20 à 21"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 2361,
+    "name": "Arc de Mulic Bere",
+    "level": "10",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2010.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "-150"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "17 à 23"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 6445,
+    "name": "Arc Boutant",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2013.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "20",
+          "max": "29"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6446,
+    "name": "Arc Chiduc",
+    "level": "87",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2014.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "31"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6451,
+    "name": "Arc Ange",
+    "level": "82",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2031.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "31"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 10"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6452,
+    "name": "Arc Chitecte",
+    "level": "111",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2030.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "19",
+          "max": "33"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "9",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6453,
+    "name": "Arc du Pêcheur",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2032.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "22"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6484,
+    "name": "Arc du Sram Archer",
+    "level": "89",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2040.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6485,
+    "name": "Arc du Chafer Archer",
+    "level": "115",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2039.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "14"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6491,
+    "name": "Le Tronknydum",
+    "level": "57",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2041.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6783,
+    "name": "Arc de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2001.png",
+    "statistics": [
+      {},
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7040,
+    "name": "Arc de Kuri",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2043.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 7160,
+    "name": "Arc Hanne",
+    "level": "120",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2044.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7161,
+    "name": "Arc Assin",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2045.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7162,
+    "name": "Arc Lavoine",
+    "level": "130",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2046.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7163,
+    "name": "Arc Huledela",
+    "level": "123",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2047.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7164,
+    "name": "Arc Hisedaisange",
+    "level": "142",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2048.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7187,
+    "name": "Jakchir Arc",
+    "level": "124",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2050.png",
+    "statistics": [
+      {},
+      {
+        "PA": {
+          "min": "-2",
+          "max": "-3"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7194,
+    "name": "Arc Anum",
+    "level": "96",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2049.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "120"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8005,
+    "name": "Arc du Koalak",
+    "level": "61",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2052.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 46,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8103,
+    "name": "Arc Rainier",
+    "level": "121",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2053.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "2",
+          "max": "21"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "2",
+          "max": "21"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "90"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8104,
+    "name": "Arc Chtelion",
+    "level": "129",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2054.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "27"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "100"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8295,
+    "name": "Arc du Dragoeuf",
+    "level": "118",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2055.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "18",
+          "max": "33"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8609,
+    "name": "Geish\u0027Arc",
+    "level": "81",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2056.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "12"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 7"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8610,
+    "name": "Le Kikoularc",
+    "level": "79",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2057.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 9"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8864,
+    "name": "Kask\u0027Arc Go",
+    "level": "122",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2058.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 96,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "5 à 10"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8924,
+    "name": "Arc à Chon",
+    "level": "147",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2059.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8925,
+    "name": "Arc Oleptik",
+    "level": "185",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2060.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "19"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 8"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9134,
+    "name": "Arc à Lamelles",
+    "level": "183",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2061.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "10",
+          "max": "21"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "10",
+          "max": "21"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9739,
+    "name": "Arc Plass\u0027Tik\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2062.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 9741,
+    "name": "Arc Hord\u0027Eon\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2063.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9742,
+    "name": "Arc Tar\u0027Huss\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2064.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "8",
+          "max": "21"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9743,
+    "name": "Arc Heub\u0027Huz\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2065.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "13",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9744,
+    "name": "Arc Ko\u0027Neun\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2066.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "4"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "4"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "1",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 6"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 10125,
+    "name": "Arc du bandit archer",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2067.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/15 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 10634,
+    "name": "Arc de Laikteur",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2068.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1 à 5"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11361,
+    "name": "Arc de Kubitus",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2070.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/15 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11627,
+    "name": "Arc Tangente",
+    "level": "167",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2069.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 8"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11754,
+    "name": "Arc Ontanporin",
+    "level": "175",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2072.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "8",
+          "max": "15"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11755,
+    "name": "Arc Hétype",
+    "level": "184",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2073.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "28",
+          "max": "44"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 7"
+      },
+      {
+        "CC": "1/10 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11756,
+    "name": "Arc Ahique",
+    "level": "196",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2071.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 8"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 12103,
+    "name": "Arc de Guten Tak",
+    "level": "173",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2074.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 209,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 8"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 14164,
+    "name": "Arc Honte",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2075.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "24",
+          "max": "32"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-6",
+          "max": "-9"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 8"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 14584,
+    "name": "Arc Lequin",
+    "level": "104",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2076.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 300,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 7"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 15014,
+    "name": "Arc de Flèche Mauve",
+    "level": "107",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2078.png",
+    "statistics": [
+      {},
+      {},
+      {},
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "500"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 324,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "4 à 6"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 15495,
+    "name": "Arc Nécrotique",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2082.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 7"
+      },
+      {
+        "CC": "1/15 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 17681,
+    "name": "Arc du Chalœil",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2083.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "20",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-30"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 7"
+      },
+      {
+        "CC": "1/15 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 18012,
+    "name": "Arc de Koutoulou",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2084.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 7"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 19270,
+    "name": "Arc corrompu",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2085.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "41",
+          "max": "55"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 8"
+      },
+      {
+        "CC": "1/15 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 19986,
+    "name": "Arc Volkorne",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2086.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "5 à 10"
+      },
+      {
+        "CC": "1/10 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 20356,
+    "name": "Plume de Buhorado",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/2087.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "81",
+          "max": "120"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-20"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {}
+    ],
+    "type": "Arc",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 7"
+      },
+      {
+        "CC": "1/15 (+15)"
+      }
+    ]
+  }
+]
