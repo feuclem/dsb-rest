@@ -1,0 +1,26 @@
+apply plugin: 'java'
+apply plugin: 'maven'
+
+group = 'com.dsb.demo'
+version = '0.0.1-SNAPSHOT'
+
+description = """DsbREst"""
+
+sourceCompatibility = 1.11
+targetCompatibility = 1.11
+tasks.withType(JavaCompile) {
+	options.encoding = 'UTF-8'
+}
+
+
+
+repositories {
+        
+     maven { url "https://repo.maven.apache.org/maven2" }
+}
+dependencies {
+    compile group: 'org.springframework.boot', name: 'spring-boot-starter-web', version:'2.1.7.RELEASE'
+    compile group: 'com.fasterxml.jackson.core', name: 'jackson-core', version:'2.9.9'
+    testCompile group: 'org.springframework.boot', name: 'spring-boot-starter-test', version:'2.1.7.RELEASE'
+    testCompile group: 'com.h2database', name: 'h2', version:'1.4.194'
+}

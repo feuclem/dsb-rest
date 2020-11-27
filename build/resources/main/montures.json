@@ -1,0 +1,1680 @@
+[
+  {
+    "_id": 1,
+    "name": "Dragodinde Amande Sauvage",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31363737323034352c333d31363737323034352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 3,
+    "name": "Dragodinde Ebène",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d313234353138342c323d3339333231362c333d313234353138342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Agilité": {
+          "from": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 6,
+    "name": "Dragodinde Rousse Sauvage",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363734373532302c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 9,
+    "name": "Dragodinde Ebène et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d313138323939322c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 10,
+    "name": "Dragodinde Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363734373532302c323d31363734373532302c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "50"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 11,
+    "name": "Dragodinde Ivoire et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363734373532302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 12,
+    "name": "Dragodinde Ebène et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363734373532302c323d313730333933362c333d313737343038342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 15,
+    "name": "Dragodinde Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343235313835362c323d343235313835362c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "80"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 16,
+    "name": "Dragodinde Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737373230302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 17,
+    "name": "Dragodinde Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d343931353333302c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 18,
+    "name": "Dragodinde Dorée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31363736363732302c333d31363736363732302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "2"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 19,
+    "name": "Dragodinde Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d31343432333130302c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Force": {
+          "from": "100"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 20,
+    "name": "Dragodinde Amande",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31363737323034352c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Initiative": {
+          "from": "1500"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 21,
+    "name": "Dragodinde Emeraude",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d333332393333302c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "12"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 22,
+    "name": "Dragodinde Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31353835393935342c333d31363737373230302c323d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "from": "100"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 23,
+    "name": "Dragodinde Prune",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31343532343633372c333d31363330313832352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Portée": {
+          "from": "2"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 33,
+    "name": "Dragodinde Amande et Dorée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31363736363732302c333d31363736363732302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 34,
+    "name": "Dragodinde Amande et Ebène",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d313234353138342c333d313234353138342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 35,
+    "name": "Dragodinde Amande et Emeraude",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d333332393333302c333d333332393333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 36,
+    "name": "Dragodinde Amande et Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d343931353333302c333d343931353333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Chance": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 37,
+    "name": "Dragodinde Amande et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 38,
+    "name": "Dragodinde Amande et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 39,
+    "name": "Dragodinde Amande et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 40,
+    "name": "Dragodinde Amande et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31353835393935342c333d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 41,
+    "name": "Dragodinde Amande et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737323034352c323d31343432333130302c333d31343432333130302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Force": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 42,
+    "name": "Dragodinde Dorée et Ebène",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d313234353138342c323d31363736363732302c333d31363736363732302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 43,
+    "name": "Dragodinde Dorée et Emeraude",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d333332393333302c333d333332393333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 44,
+    "name": "Dragodinde Dorée et Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d343931353333302c333d343931353333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 45,
+    "name": "Dragodinde Dorée et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 46,
+    "name": "Dragodinde Dorée et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 47,
+    "name": "Dragodinde Dorée et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 48,
+    "name": "Dragodinde Dorée et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31353835393935342c333d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 49,
+    "name": "Dragodinde Dorée et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31343432333130302c333d31343432333130302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 50,
+    "name": "Dragodinde Ebène et Emeraude",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d313234353138342c323d333332393333302c333d333332393333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 51,
+    "name": "Dragodinde Ebène et Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d313234353138342c333d313234353138342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 52,
+    "name": "Dragodinde Ebène et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d313234353138342c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 53,
+    "name": "Dragodinde Ebène et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31353835393935342c323d302c333d302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 54,
+    "name": "Dragodinde Ebène et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d313234353138342c333d313234353138342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 55,
+    "name": "Dragodinde Emeraude et Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d343931353333302c333d343931353333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 56,
+    "name": "Dragodinde Emeraude et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 57,
+    "name": "Dragodinde Emeraude et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 58,
+    "name": "Dragodinde Emeraude et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 59,
+    "name": "Dragodinde Emeraude et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d31353835393935342c333d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 60,
+    "name": "Dragodinde Emeraude et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d333332393333302c323d31343432333130302c333d31343432333130302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 61,
+    "name": "Dragodinde Indigo et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 62,
+    "name": "Dragodinde Indigo et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 63,
+    "name": "Dragodinde Indigo et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 64,
+    "name": "Dragodinde Indigo et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343931353333302c323d31353835393935342c333d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 65,
+    "name": "Dragodinde Indigo et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d343931353333302c333d343931353333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 66,
+    "name": "Dragodinde Ivoire et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737373230302c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 67,
+    "name": "Dragodinde Ivoire et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363737373230302c323d31363733313335352c333d31363731313931302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 68,
+    "name": "Dragodinde Ivoire et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 69,
+    "name": "Dragodinde Turquoise et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d343235313835362c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 70,
+    "name": "Dragodinde Orchidée et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343331353733342c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 71,
+    "name": "Dragodinde Pourpre et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 72,
+    "name": "Dragodinde Turquoise et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31353835393935342c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 73,
+    "name": "Dragodinde Turquoise et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343432333130302c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 74,
+    "name": "Dragodinde Dorée Sauvage",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31363736363732302c323d31363736363732302c333d31363736363732302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 76,
+    "name": "Dragodinde Orchidée et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343331353733342c323d31343432333130302c333d31343432333130302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 77,
+    "name": "Dragodinde Prune et Amande",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31363737323034352c333d31363737323034352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Initiative": {
+          "from": "1000"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 78,
+    "name": "Dragodinde Prune et Dorée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31363736363732302c333d31363736363732302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Invocations": {
+          "from": "1"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 79,
+    "name": "Dragodinde Prune et Ebène",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d313234353138342c333d313234353138342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Agilité": {
+          "from": "70"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 80,
+    "name": "Dragodinde Prune et Emeraude",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d333332393333302c333d333332393333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "% Critique": {
+          "from": "8"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 82,
+    "name": "Dragodinde Prune et Indigo",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d343931353333302c333d343931353333302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Chance": {
+          "from": "70"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 83,
+    "name": "Dragodinde Prune et Ivoire",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31363737373230302c333d31363737373230302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 84,
+    "name": "Dragodinde Prune et Rousse",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31363734373532302c333d31363734373532302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      },
+      {
+        "Soins": {
+          "from": "35"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 85,
+    "name": "Dragodinde Prune et Turquoise",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d343235313835362c333d343235313835362c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Prospection": {
+          "from": "60"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 86,
+    "name": "Dragodinde Prune et Orchidée",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31353835393935342c333d31353835393935342c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Intelligence": {
+          "from": "70"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 87,
+    "name": "Dragodinde Prune et Pourpre",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c7c313d31343532343633372c323d31343432333130302c333d31343432333130302c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Force": {
+          "from": "70"
+        }
+      },
+      {
+        "Portée": {
+          "from": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "from": "300"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 88,
+    "name": "Dragodinde en armure",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b3633397c313234377c313d234646413433332c323d233732324231392c333d233742343833352c343d373735383931357c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "% Résistance Air": {
+          "from": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "from": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "from": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "from": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "from": "5"
+        }
+      },
+      {
+        "Puissance": {
+          "from": "50"
+        }
+      }
+    ],
+    "type": "Montures",
+    "setId": 0
+  },
+  {
+    "_id": 89,
+    "name": "Dragodinde à Plumes",
+    "lvl": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/renderer/look/7b313832347c7c313d31343837373939372c323d31333137333533352c333d31343537353839327c3132307d/full/1/200_200-10.png",
+    "stats": [
+      {
+        "Vitalité": {
+          "from": "100"
+        }
+      },
+      {}
+    ],
+    "type": "Montures",
+    "setId": 0
+  }
+]
