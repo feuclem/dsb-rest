@@ -1,0 +1,57 @@
+{
+  "id": 365,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "5",
+            "max": "5"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "5",
+            "max": "5"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        }
+      ]
+    }
+  ]
+}

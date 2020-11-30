@@ -1,0 +1,33 @@
+{
+  "id": 363,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "3",
+            "max": "3"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "5",
+            "max": "5"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,6818 @@
+[
+  {
+    "_id": 44,
+    "name": "Epée de Boisaille",
+    "level": "7",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6007.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "10"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 49,
+    "name": "Epée de Fouraille",
+    "level": "15",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6002.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 55,
+    "name": "Epée d\u0027Alle",
+    "level": "26",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6001.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-20"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 58,
+    "name": "La Triste Lame",
+    "level": "21",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6005.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 62,
+    "name": "Epée d\u0027Ha",
+    "level": "17",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6006.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Force": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 65,
+    "name": "Goultard",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6017.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 66,
+    "name": "La crinière de Badoul",
+    "level": "33",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6011.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-12"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-12"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 67,
+    "name": "Le Tranchant Infernal",
+    "level": "22",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6013.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "-10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 202,
+    "name": "Razielle",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6016.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 327,
+    "name": "Lame du Chevaucheur de Karne",
+    "level": "16",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6003.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 328,
+    "name": "Koupe-koupe",
+    "level": "18",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6004.png",
+    "statistics": [
+      {},
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "25"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 339,
+    "name": "Lame du Chafer",
+    "level": "27",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6005.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+20)"
+      }
+    ]
+  },
+  {
+    "_id": 354,
+    "name": "La Klebik",
+    "level": "25",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6011.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "17"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-8"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 357,
+    "name": "La Queue",
+    "level": "13",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+20)"
+      }
+    ]
+  },
+  {
+    "_id": 358,
+    "name": "La Queue Infernale",
+    "level": "21",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "35"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-20"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+20)"
+      }
+    ]
+  },
+  {
+    "_id": 620,
+    "name": "Découpeuse de Kralamoure",
+    "level": "61",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6008.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-1",
+          "max": "-20"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 821,
+    "name": "Epée Sacrée",
+    "level": "17",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 824,
+    "name": "Epée du Chevalier",
+    "level": "26",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6009.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "31"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 827,
+    "name": "Lame du Bwork",
+    "level": "26",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6013.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "-30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 928,
+    "name": "Lame d\u0027Ogralimde",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6012.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "28"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 1475,
+    "name": "La Zulie Lame",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6015.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "31"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1511,
+    "name": "Neuf Queues",
+    "level": "99",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6019.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "99"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "99"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "29"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "29"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "9"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "9"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "9"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "9"
+        }
+      },
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "9 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+9)"
+      }
+    ]
+  },
+  {
+    "_id": 1574,
+    "name": "Découpeuse de Yench",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6021.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-40"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 1639,
+    "name": "Etoile du soir",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6022.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "26"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "-20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1651,
+    "name": "Le Cutter",
+    "level": "64",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6023.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "39"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Force": {
+          "min": "46",
+          "max": "65"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-65"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 2415,
+    "name": "Kwaklame de Flammes",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6052.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 2,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 2440,
+    "name": "Epée Royale du Bouftou",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6030.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 4,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 2544,
+    "name": "Corbalame",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6032.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 8,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 2637,
+    "name": "La Griffe",
+    "level": "35",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6033.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 2638,
+    "name": "La Griffe Aiguisée",
+    "level": "68",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6034.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 2639,
+    "name": "Fausse Griffe de Ceangal",
+    "level": "95",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6035.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 4241,
+    "name": "Griffe Rose",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6041.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 4242,
+    "name": "Eventail Tranchant",
+    "level": "75",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6024.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 4382,
+    "name": "Pic à Glace",
+    "level": "85",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6014.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6750,
+    "name": "Kwaklame de Glace",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6051.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 13,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6751,
+    "name": "Kwaklame de Terre",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6053.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 14,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6752,
+    "name": "Kwaklame du Vent",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6050.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 15,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6780,
+    "name": "Épée de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6007.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6799,
+    "name": "Lame du Chef Bwork",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6048.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "23",
+          "max": "57"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6821,
+    "name": "Lame du Chef Crocodaille",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6049.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "46",
+          "max": "55"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 20,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 6839,
+    "name": "Epée de Yingnitié",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6840,
+    "name": "Epée de Yanguru",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6957,
+    "name": "Lame du Craqueleur",
+    "level": "37",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6054.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "51",
+          "max": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 26,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7102,
+    "name": "Epée du Chevalier de Glace",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6051.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7192,
+    "name": "Griffe de Grizmine",
+    "level": "111",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6059.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "31",
+          "max": "48"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7193,
+    "name": "Epée du Dark Vlad",
+    "level": "126",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6061.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "18",
+          "max": "32"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 7195,
+    "name": "Karnak",
+    "level": "158",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6060.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "29",
+          "max": "47"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7198,
+    "name": "Razoir du Soir",
+    "level": "105",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6062.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "23",
+          "max": "37"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7199,
+    "name": "Glaive Icération",
+    "level": "130",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6063.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {},
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "300"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7200,
+    "name": "Sabre Shodanwa",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6055.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "22"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7201,
+    "name": "Sabre Nidanwa",
+    "level": "66",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6056.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "37"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7202,
+    "name": "Sabre Sandanwa",
+    "level": "83",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6057.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "28",
+          "max": "41"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 7203,
+    "name": "Sabre Yondanwa",
+    "level": "92",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6058.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7257,
+    "name": "Sabre Feudala",
+    "level": "76",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6064.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "56",
+          "max": "75"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 37,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 8094,
+    "name": "L\u0027Epée Rilleuse",
+    "level": "169",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6066.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "50"
+        }
+      },
+      {},
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8095,
+    "name": "Le Sabre Ayassalama",
+    "level": "143",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6067.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 8292,
+    "name": "Epée du Dragoeuf",
+    "level": "127",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6068.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "6",
+          "max": "9"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8338,
+    "name": "Epée de Nowel",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6069.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "2"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "1 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+1)"
+      }
+    ]
+  },
+  {
+    "_id": 8450,
+    "name": "Epée du Rat Blanc",
+    "level": "109",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6071.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Force": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 67,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8596,
+    "name": "Griffe Pourpre",
+    "level": "145",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6072.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "36",
+          "max": "60"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "31",
+          "max": "50"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 8604,
+    "name": "Epée Doncule",
+    "level": "97",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6073.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "46",
+          "max": "65"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-31",
+          "max": "-50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-31",
+          "max": "-50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-31",
+          "max": "-50"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "8 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 8605,
+    "name": "Epée Zervatif",
+    "level": "73",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6074.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8695,
+    "name": "L\u0027Épée Nice",
+    "level": "177",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6076.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "200"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8930,
+    "name": "Fuschia",
+    "level": "163",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6078.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "16",
+          "max": "28"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Soins": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8931,
+    "name": "Az\u0027tech",
+    "level": "186",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6079.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {},
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/10 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8932,
+    "name": "Kukri Kura",
+    "level": "179",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6080.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "21"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "21"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "500"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8941,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "2",
+          "max": "21"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8956,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "4",
+          "max": "23"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8957,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8958,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "27"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8959,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "10",
+          "max": "29"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8960,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "31"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8961,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "33"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8962,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8963,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "37"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8964,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "20",
+          "max": "39"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8965,
+    "name": "Patte d\u0027Ecaflip",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6082.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "22",
+          "max": "41"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8966,
+    "name": "Patte d\u0027Ecaflip Parfaite",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6081.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "60"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8993,
+    "name": "Epée Maudite du Saigneur Guerrier",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6083.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "165"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {},
+      {},
+      {},
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "7 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9469,
+    "name": "Epée Loponèze",
+    "level": "184",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6085.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "28"
+        }
+      },
+      {},
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "401",
+          "max": "700"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9706,
+    "name": "Epée Ta\u0027Rad\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6089.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9707,
+    "name": "Epée Hi\u0027Zan\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6090.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "13",
+          "max": "24"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 9708,
+    "name": "Epée Dal\u0027Douss\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6088.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "14",
+          "max": "33"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9709,
+    "name": "Epée Rnoh\u0027Hel\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6087.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "35"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9710,
+    "name": "Epée Cerp\u0027Teurh\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6086.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "4",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 10126,
+    "name": "Epée du bandit fine-lame",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6092.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10622,
+    "name": "Epée de Grüt",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6094.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "27"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10626,
+    "name": "Epée de Kocksis",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6095.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "15",
+          "max": "22"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10638,
+    "name": "Epée de Rekto Topi",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6093.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 10797,
+    "name": "Epée Tulante",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6096.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 10975,
+    "name": "Epée de Phong Huss",
+    "level": "33",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6097.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "24"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 11306,
+    "name": "Epée Tillante",
+    "level": "49",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6102.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 11349,
+    "name": "Epée d\u0027Ougicle",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6104.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/10 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11366,
+    "name": "Epée de Rapiat",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6103.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11586,
+    "name": "Sabre de Ben le Ripate",
+    "level": "152",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6100.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 178,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 11624,
+    "name": "Sabre Heutelle",
+    "level": "144",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6101.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 11742,
+    "name": "Epée Kadille",
+    "level": "177",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6107.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 11743,
+    "name": "Epée Kari",
+    "level": "184",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6105.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "46",
+          "max": "75"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "46",
+          "max": "75"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 11744,
+    "name": "Epée Toche",
+    "level": "196",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6106.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11872,
+    "name": "Inferno",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6108.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 12018,
+    "name": "Kwakwalame",
+    "level": "56",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6109.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 196,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 12022,
+    "name": "Epée de Traçon",
+    "level": "44",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6110.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "14",
+          "max": "20"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 12034,
+    "name": "Epée de Kalkanéus",
+    "level": "41",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6112.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "28"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 12115,
+    "name": "Epée Gloursonne",
+    "level": "199",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6111.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "401",
+          "max": "500"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 212,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/1 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 12864,
+    "name": "Épée Glutine de Nowel",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6069.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "22",
+          "max": "25"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 13119,
+    "name": "Épée d\u0027Otomaï",
+    "level": "196",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6719.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "36",
+          "max": "44"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 241,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/10 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 14084,
+    "name": "Épée du Granduk",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6721.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "30",
+          "max": "37"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 276,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 14156,
+    "name": "Rapière aux Glyphes",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6722.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "33",
+          "max": "44"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Chance": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "-301",
+          "max": "-400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 15496,
+    "name": "Épée de la Reine des Voleurs",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6730.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "41",
+          "max": "45"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-25"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-15"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 17095,
+    "name": "Épée du Bretteur Céleste",
+    "level": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6731.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "30",
+          "max": "44"
+        }
+      },
+      {}
+    ],
+    "type": "Épée",
+    "setId": 381,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 17525,
+    "name": "Bouquet de Roses démoniaques",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6047.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+1)"
+      }
+    ]
+  },
+  {
+    "_id": 17586,
+    "name": "Sabres d\u0027Atcham",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6732.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "20",
+          "max": "25"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "20",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 406,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 17589,
+    "name": "Épée de Ush",
+    "level": "165",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6735.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "19",
+          "max": "28"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Épée",
+    "setId": 407,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 18015,
+    "name": "Épouvante",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6736.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "23",
+          "max": "28"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "23",
+          "max": "28"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 18853,
+    "name": "Épée Langue de Feu",
+    "level": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6061.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "300"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "60"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "6"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/1"
+      }
+    ]
+  },
+  {
+    "_id": 19105,
+    "name": "Épée Langue de Feu Réanimée",
+    "level": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6061.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/1"
+      }
+    ]
+  },
+  {
+    "_id": 19482,
+    "name": "Épée Nécronyx",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6098.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+14)"
+      }
+    ]
+  },
+  {
+    "_id": 20353,
+    "name": "Crocobur",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/6740.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "401",
+          "max": "450"
+        }
+      },
+      {
+        "Force": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-20"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "-10"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {},
+      {},
+      {
+        "Dommages Air": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Épée",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/10 (+7)"
+      }
+    ]
+  }
+]

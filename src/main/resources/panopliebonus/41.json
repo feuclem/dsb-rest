@@ -1,0 +1,56 @@
+{
+  "id": 41,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "60",
+            "max": "60"
+          }
+        },
+        {
+          "Puissance": {
+            "min": "30",
+            "max": "30"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "100",
+            "max": "100"
+          }
+        },
+        {
+          "PA": {
+            "min": "1",
+            "max": "1"
+          }
+        },
+        {
+          "Puissance": {
+            "min": "60",
+            "max": "60"
+          }
+        }
+      ]
+    }
+  ]
+}

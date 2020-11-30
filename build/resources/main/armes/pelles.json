@@ -1,0 +1,4327 @@
+[
+  {
+    "_id": 153,
+    "name": "Pelle de Boisaille",
+    "level": "6",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8001.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "11"
+        }
+      },
+      {
+        "Chance": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 241,
+    "name": "Pelle de Crapouille",
+    "level": "17",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8004.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "9",
+          "max": "12"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 247,
+    "name": "Pelle de Rapage",
+    "level": "19",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8005.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Chance": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 250,
+    "name": "Ares",
+    "level": "72",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8009.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "7",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 251,
+    "name": "Barbe Grise",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8011.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 296,
+    "name": "Pelle du Craqueleur",
+    "level": "29",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8007.png",
+    "statistics": [
+      {},
+      {
+        "Sagesse": {
+          "min": "11"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "11"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-9"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 347,
+    "name": "Rhizome Doré",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8010.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-1",
+          "max": "-20"
+        }
+      },
+      {}
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 484,
+    "name": "Pelle Teuze",
+    "level": "31",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8008.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1045,
+    "name": "Pelle de Bois Dormant",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8020.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-60"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1049,
+    "name": "Pelle Melle",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8018.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "17",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1053,
+    "name": "Pelle Woukuis",
+    "level": "64",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8021.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "31"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1054,
+    "name": "Cruelle Pelle-Truelle",
+    "level": "53",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8015.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Force": {
+          "min": "-60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1058,
+    "name": "Pelle de Koutoulou",
+    "level": "34",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8019.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "-30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1059,
+    "name": "Pelle des Champs",
+    "level": "15",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8017.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "9"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1426,
+    "name": "Pelle à Thart\u0027",
+    "level": "24",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8008.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 1427,
+    "name": "Pelle Zébuth",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8040.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "35"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 1431,
+    "name": "Pelle Mechba",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8019.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "20",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1432,
+    "name": "Pelle Houze",
+    "level": "21",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8017.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "11",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "-15"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1433,
+    "name": "Pelle Sécutrice",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8004.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1435,
+    "name": "La Pelle du Large",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8011.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1436,
+    "name": "Pelle Ikan",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8008.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 3356,
+    "name": "Pelle Doudesque",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8027.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6526,
+    "name": "Pelle Hébuse",
+    "level": "94",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8004.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "24",
+          "max": "41"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6527,
+    "name": "Pelle Musicale",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8038.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "29"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6528,
+    "name": "Pelle Rinage",
+    "level": "88",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8004.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "16"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Chance": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6535,
+    "name": "Pelle Hikule",
+    "level": "121",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8036.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "24",
+          "max": "43"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 6536,
+    "name": "Pelle du Mineur Sombre",
+    "level": "118",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8034.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "21"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "21"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 6537,
+    "name": "Pelle Mairhe",
+    "level": "88",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8037.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6538,
+    "name": "Pelle Vaidaire",
+    "level": "84",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8039.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "13"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6539,
+    "name": "Pelle Gicque",
+    "level": "71",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8035.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6540,
+    "name": "La Pelle Hélabète",
+    "level": "86",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8033.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "18",
+          "max": "37"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+15)"
+      }
+    ]
+  },
+  {
+    "_id": 6786,
+    "name": "Pelle de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8001.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 7213,
+    "name": "Pelle Rhon",
+    "level": "142",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8041.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "24",
+          "max": "43"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "45"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8255,
+    "name": "Pelle en Mousse",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8044.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "18"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 63,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8417,
+    "name": "Pelle à Gâteau",
+    "level": "131",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8043.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "14"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-5",
+          "max": "-7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-5",
+          "max": "-7"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 8419,
+    "name": "Pelle Moh",
+    "level": "115",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8042.png",
+    "statistics": [
+      {},
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "150"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8420,
+    "name": "Pelle Dragoeuf",
+    "level": "127",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8045.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "18",
+          "max": "28"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8613,
+    "name": "Pelle Minstère",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8046.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "24"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8614,
+    "name": "Pelle Ripe",
+    "level": "66",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8047.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "12"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 8935,
+    "name": "La Bêche à Mel",
+    "level": "172",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8048.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8936,
+    "name": "Pelle Shattkitou",
+    "level": "136",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8049.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "20",
+          "max": "34"
+        }
+      },
+      {},
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {}
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 8937,
+    "name": "Pelle Aigante",
+    "level": "155",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8050.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "16",
+          "max": "27"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "27"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "2"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 9468,
+    "name": "Pelle Emélaka",
+    "level": "191",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8051.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "26"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "18"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 9724,
+    "name": "Pelle Rin\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8053.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9725,
+    "name": "Pelle Ass\u0027Tik\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8052.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "14",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 9726,
+    "name": "Pelle Ag\u0027Heuze\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8054.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9727,
+    "name": "Pelle Rail\u0027Zeur\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8055.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "20",
+          "max": "26"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 9728,
+    "name": "Pelle Hi\u0027Sé\u0027Moun\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8056.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 11628,
+    "name": "Pelle Tonedjone",
+    "level": "147",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8057.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "13"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/25 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11762,
+    "name": "Pelle Dorado",
+    "level": "178",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8058.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "25",
+          "max": "37"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11763,
+    "name": "Pelle Fik",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8060.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-7",
+          "max": "-10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/35 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 11820,
+    "name": "Pelle Vétik",
+    "level": "181",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8061.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "23",
+          "max": "33"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11857,
+    "name": "Pelle de Stroud émoussée",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8059.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 11873,
+    "name": "Styx",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8062.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "15"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 12112,
+    "name": "Pelle du Professeur Xa",
+    "level": "191",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8063.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "21"
+        }
+      },
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 211,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 13329,
+    "name": "Râtrouille",
+    "level": "102",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8066.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "16",
+          "max": "24"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 252,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 14055,
+    "name": "Bêche Asse",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8067.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "23"
+        }
+      },
+      {},
+      {
+        "(dommages Terre)": {
+          "min": "16",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Force": {
+          "min": "51",
+          "max": "75"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-6",
+          "max": "-8"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 14135,
+    "name": "Pelle Vice",
+    "level": "199",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8068.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "22",
+          "max": "28"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "23",
+          "max": "34"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "75"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 14585,
+    "name": "Clef à Molette",
+    "level": "106",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8069.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "10"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "120"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-9",
+          "max": "-12"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 15218,
+    "name": "Pelle de Nidas",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8072.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "33",
+          "max": "40"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 15494,
+    "name": "Pelle de la Cour Sombre",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8076.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-11",
+          "max": "-15"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 18013,
+    "name": "Harpelle",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8078.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/20 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 19093,
+    "name": "Pelle de Katrepat",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8879.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "36",
+          "max": "40"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "36",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Soins": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 20935,
+    "name": "Spatule Tranche-Gourmands",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/8882.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "351",
+          "max": "400"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-15"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "23",
+          "max": "30"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Pelle",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  }
+]

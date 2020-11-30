@@ -1,0 +1,51 @@
+{
+  "id": 220,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4",
+            "max": "4"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "Titre",
+            "max": "Titre"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8",
+            "max": "8"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

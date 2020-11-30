@@ -1,0 +1,33 @@
+{
+  "id": 414,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Puissance": {
+            "min": "100",
+            "max": "100"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Puissance": {
+            "min": "100",
+            "max": "100"
+          }
+        },
+        {
+          "PA": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

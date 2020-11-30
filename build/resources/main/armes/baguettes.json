@@ -1,0 +1,5020 @@
+[
+  {
+    "_id": 134,
+    "name": "Baguette de Boisaille",
+    "level": "3",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3008.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "4",
+          "max": "8"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 165,
+    "name": "Baguette de Glace",
+    "level": "11",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3002.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "14",
+          "max": "18"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 180,
+    "name": "La Baguette des Limbes",
+    "level": "105",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3007.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Force": {
+          "min": "-11",
+          "max": "-40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 181,
+    "name": "Baguette des Cieux",
+    "level": "51",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3006.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "46",
+          "max": "55"
+        }
+      },
+      {
+        "Force": {
+          "min": "-10"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 333,
+    "name": "Baguette Deuh-Pain",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3009.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "-20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 334,
+    "name": "Baguette de Liriel",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3005.png",
+    "statistics": [
+      {},
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {},
+      {
+        "Agilité": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 469,
+    "name": "Baguette en Racine d\u0027Abraknyde",
+    "level": "33",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3003.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 832,
+    "name": "Baguette d\u0027Intelligence",
+    "level": "29",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3001.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "-30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 835,
+    "name": "Baguette de Sagesse",
+    "level": "27",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3004.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "-10"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-10"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 1104,
+    "name": "Baguette Heure",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3017.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1131,
+    "name": "Baguette d\u0027Eglise",
+    "level": "52",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3016.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "11"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1132,
+    "name": "Baguette Ni\u0027Ninnin",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3018.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "90"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-90"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "PA": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1136,
+    "name": "Baguette à Pans",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3020.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "10",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1140,
+    "name": "Baguette d\u0027Houvette",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3019.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1146,
+    "name": "Baguette Meneuse",
+    "level": "71",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3021.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "46",
+          "max": "65"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-35"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1356,
+    "name": "Demi-Baguette",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3013.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "2",
+          "max": "6"
+        }
+      },
+      {
+        "Chance": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 1357,
+    "name": "Daguette",
+    "level": "35",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3017.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "-20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "-20"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1359,
+    "name": "Le Tison Fûté",
+    "level": "59",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3008.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Force": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 1360,
+    "name": "L\u0027Hyldegarde",
+    "level": "48",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3008.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "11",
+          "max": "23"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 1361,
+    "name": "Baguette Sylvien",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3015.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "-20"
+        }
+      },
+      {
+        "Chance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1362,
+    "name": "Pieu Vampirique",
+    "level": "65",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3014.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 1503,
+    "name": "Baguette de Feu Follesque",
+    "level": "10",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3014.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 1739,
+    "name": "Baguette Affeulante",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3024.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "11",
+          "max": "14"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Force": {
+          "min": "-60"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 5999,
+    "name": "Baguette Helles",
+    "level": "75",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3022.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6438,
+    "name": "Baguette Molle",
+    "level": "83",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3033.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "-400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6439,
+    "name": "Baguette Irréelle",
+    "level": "90",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3032.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6440,
+    "name": "Baguette Velue",
+    "level": "95",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3031.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "16",
+          "max": "21"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6494,
+    "name": "Baguette d\u0027Elya Wood",
+    "level": "117",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3039.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "11"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 39,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6495,
+    "name": "Baguette du Chêne Mou",
+    "level": "171",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3042.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Soins": {
+          "min": "8",
+          "max": "10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "250"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "6",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-6",
+          "max": "-7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-6",
+          "max": "-7"
+        }
+      },
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "3 à 4"
+      },
+      {
+        "CC": "1/10 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 6496,
+    "name": "Baguette en Racine d\u0027Abraknyde Sombre",
+    "level": "67",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3040.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "12",
+          "max": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "-40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "-40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "-40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 6497,
+    "name": "Balgourde des Clairettes",
+    "level": "63",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3043.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "8",
+          "max": "20"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+12)"
+      }
+    ]
+  },
+  {
+    "_id": 6518,
+    "name": "Amrothiline",
+    "level": "113",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3044.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "23"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "80"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "3",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 6519,
+    "name": "Baguette de Kouartz",
+    "level": "78",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3041.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "27"
+        }
+      },
+      {},
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (3 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/25 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 6520,
+    "name": "La Migraine",
+    "level": "84",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3045.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "19"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "90"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 6781,
+    "name": "Baguette de l\u0027initié",
+    "level": "12",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3008.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7103,
+    "name": "La Xyothine",
+    "level": "145",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3053.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7110,
+    "name": "Baguette Larvesque",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3019.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "-1",
+          "max": "-2"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 33,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7165,
+    "name": "Baguette Nah",
+    "level": "102",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3054.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "13"
+        }
+      },
+      {},
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 7167,
+    "name": "Baguette Cetera",
+    "level": "43",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3050.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "8",
+          "max": "17"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "201",
+          "max": "300"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7168,
+    "name": "Baguette Hylique",
+    "level": "63",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3051.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 7169,
+    "name": "Baguette Hincelle",
+    "level": "81",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3052.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7170,
+    "name": "Baguette Houffe-Craitien",
+    "level": "112",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3046.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "70"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "250"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "3 à 4"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 7171,
+    "name": "Baguette Ourderie",
+    "level": "127",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3047.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "14"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "14"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "4 à 6"
+      },
+      {
+        "CC": "1/30 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 7172,
+    "name": "Baguette Rhon",
+    "level": "105",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3049.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "15"
+        }
+      },
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "130"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 7173,
+    "name": "Baguette Rangleuse",
+    "level": "27",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3048.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 7368,
+    "name": "Baguette Houalle",
+    "level": "125",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3055.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "15",
+          "max": "24"
+        }
+      },
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8088,
+    "name": "Baguette Gyver",
+    "level": "128",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3056.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "26",
+          "max": "33"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8089,
+    "name": "Baguette Iots",
+    "level": "138",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3057.png",
+    "statistics": [
+      {},
+      {},
+      {},
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Chance": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Force": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "35"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/15 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8110,
+    "name": "Baguette du Tofu",
+    "level": "25",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3058.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Agilité": {
+          "min": "1"
+        }
+      },
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 50,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8118,
+    "name": "Baguette du Scarabosse Doré",
+    "level": "59",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3059.png",
+    "statistics": [
+      {},
+      {
+        "Intelligence": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 51,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/25 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8296,
+    "name": "Baguette du Dragoeuf",
+    "level": "124",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3060.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8611,
+    "name": "Bagdette Café",
+    "level": "69",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3061.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Soins": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 8612,
+    "name": "La Bidjiz",
+    "level": "74",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3062.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "13",
+          "max": "22"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      },
+      {
+        "PM": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 6"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 8834,
+    "name": "Branche de l\u0027Abrakleur sombre",
+    "level": "97",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3064.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "6",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Force": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "36",
+          "max": "45"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 80,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 8835,
+    "name": "Branche de l\u0027Abrakleur clair",
+    "level": "132",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3065.png",
+    "statistics": [
+      {},
+      {},
+      {
+        "(dommages Neutre)": {
+          "min": "7",
+          "max": "16"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 79,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9135,
+    "name": "Baguetterelle",
+    "level": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3066.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "16"
+        }
+      },
+      {},
+      {},
+      {
+        "PA": {
+          "min": "-1"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "6",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/10 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9745,
+    "name": "Baguette Hoh\u0027",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3067.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "12"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2"
+      },
+      {
+        "CC": "1/30 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 9746,
+    "name": "Baguette Stror\u0027Di\u0027Ner\u0027",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3068.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "7",
+          "max": "16"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+10)"
+      }
+    ]
+  },
+  {
+    "_id": 9747,
+    "name": "Baguette Han\u0027Dar\u0027",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3069.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "8",
+          "max": "19"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9748,
+    "name": "Baguette Ta\u0027Lay\u0027",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3070.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/30 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 9749,
+    "name": "Baguette Euh\u0027Laille\u0027Fe\u0027",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3071.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "3",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "3",
+          "max": "7"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "3",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 10133,
+    "name": "Baguette du bandit ensorceleur",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3072.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "1",
+          "max": "5"
+        }
+      },
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/15 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 10858,
+    "name": "Baguette de Kloug",
+    "level": "53",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3073.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "12",
+          "max": "22"
+        }
+      },
+      {}
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 11632,
+    "name": "Baguette Hernuement",
+    "level": "163",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3074.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "12",
+          "max": "20"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "101",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 3"
+      },
+      {
+        "CC": "1/15 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 11757,
+    "name": "Baguette Nolog",
+    "level": "177",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3075.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "20",
+          "max": "34"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Force": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/15 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 11758,
+    "name": "Baguette Hernelle",
+    "level": "187",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3076.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "22"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "22"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/5 (+7)"
+      }
+    ]
+  },
+  {
+    "_id": 11759,
+    "name": "Baguette Hique",
+    "level": "193",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3077.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "14",
+          "max": "24"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "7",
+          "max": "12"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "301",
+          "max": "400"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "6"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/20 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 12088,
+    "name": "Baguette de Frigostine",
+    "level": "149",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3078.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "11",
+          "max": "16"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Soins": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "8",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-4",
+          "max": "-5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 206,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 13583,
+    "name": "Baguette du Grand Glucid",
+    "level": "134",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3079.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "21",
+          "max": "28"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Chance": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Soins": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1",
+          "max": "2"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/20 (+6)"
+      }
+    ]
+  },
+  {
+    "_id": 14288,
+    "name": "Bâtonnet Ronien",
+    "level": "198",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3080.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "251",
+          "max": "300"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "31",
+          "max": "50"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "45"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      },
+      {
+        "Soins": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "10",
+          "max": "14"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 288,
+    "characteristics": [
+      {
+        "PA": "3 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "3 à 5"
+      },
+      {
+        "CC": "1/10 (+4)"
+      }
+    ]
+  },
+  {
+    "_id": 15216,
+    "name": "Baguette de Malléfisk",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3083.png",
+    "statistics": [
+      {},
+      {},
+      {},
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Initiative": {
+          "min": "401",
+          "max": "600"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/25 (+2)"
+      }
+    ]
+  },
+  {
+    "_id": 15779,
+    "name": "Baguette des égarés",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3084.png",
+    "statistics": [
+      {
+        "(dommages Terre)": {
+          "min": "24",
+          "max": "30"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "24",
+          "max": "30"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-5"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/15 (+8)"
+      }
+    ]
+  },
+  {
+    "_id": 15990,
+    "name": "Baguette Rikiki",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3086.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Chance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "2 (2 utilisations par tour)"
+      },
+      {
+        "Portée": "2 à 4"
+      },
+      {
+        "CC": "1/30 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 18011,
+    "name": "Baguette Range",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3087.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Feu)": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {},
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/5 (+3)"
+      }
+    ]
+  },
+  {
+    "_id": 18601,
+    "name": "Pyraguette",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3088.png",
+    "statistics": [
+      {
+        "(dommages Feu)": {
+          "min": "25",
+          "max": "30"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "10",
+          "max": "12"
+        }
+      },
+      {
+        "(dommages Eau)": {
+          "min": "10",
+          "max": "12"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Chance": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-10"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 19605,
+    "name": "Baguette Héroclite",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/3089.png",
+    "statistics": [
+      {
+        "(dommages Eau)": {
+          "min": "55",
+          "max": "60"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Chance": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "5 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "2 à 5"
+      },
+      {
+        "CC": "1/0"
+      }
+    ]
+  },
+  {
+    "_id": 21229,
+    "name": "Baguette de Torkélonia",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/4137.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "301",
+          "max": "350"
+        }
+      },
+      {
+        "Force": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "41",
+          "max": "60"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Invocations": {
+          "min": "1"
+        }
+      },
+      {
+        "Prospection": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "(dommages Terre)": {
+          "min": "24",
+          "max": "35"
+        }
+      }
+    ],
+    "type": "Baguette",
+    "setId": 472,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "3 à 6"
+      },
+      {
+        "CC": "1/10 (+10)"
+      }
+    ]
+  }
+]

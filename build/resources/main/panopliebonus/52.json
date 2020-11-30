@@ -1,0 +1,173 @@
+{
+  "id": 52,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "10",
+            "max": "10"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "10",
+            "max": "10"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "11",
+            "max": "11"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "1%",
+            "max": "1%"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "12",
+            "max": "12"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "2%",
+            "max": "2%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "13",
+            "max": "13"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "10",
+            "max": "10"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4%",
+            "max": "4%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "60",
+            "max": "60"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "14",
+            "max": "14"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "6%",
+            "max": "6%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "80",
+            "max": "80"
+          }
+        }
+      ]
+    },
+    {
+      "number": 7,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "10%",
+            "max": "10%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "10%",
+            "max": "10%"
+          }
+        },
+        {
+          "PA": {
+            "min": "1",
+            "max": "1"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8%",
+            "max": "8%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "100",
+            "max": "100"
+          }
+        }
+      ]
+    }
+  ]
+}

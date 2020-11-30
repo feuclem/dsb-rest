@@ -1,0 +1,78 @@
+{
+  "id": 6,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "30",
+            "max": "30"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "10",
+            "max": "10"
+          }
+        }
+      ]
+    },
+    {
+      "number": 5,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        }
+      ]
+    },
+    {
+      "number": 6,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "50",
+            "max": "50"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        }
+      ]
+    }
+  ]
+}

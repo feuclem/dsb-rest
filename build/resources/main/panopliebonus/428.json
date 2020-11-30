@@ -1,0 +1,57 @@
+{
+  "id": 428,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "Dommages Critiques": {
+            "min": "15",
+            "max": "15"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "Dommages Critiques": {
+            "min": "15",
+            "max": "15"
+          }
+        },
+        {
+          "PA": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "id": 245,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "4",
+            "max": "4"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4",
+            "max": "4"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4",
+            "max": "4"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4",
+            "max": "4"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "20",
+            "max": "20"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "6",
+            "max": "6"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "8",
+            "max": "8"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "-1",
+            "max": "-1"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8",
+            "max": "8"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8",
+            "max": "8"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8",
+            "max": "8"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "40",
+            "max": "40"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "12",
+            "max": "12"
+          }
+        },
+        {
+          "PA": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4297 @@
+[
+  {
+    "_id": 12622,
+    "name": "Tacleur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151079.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12623,
+    "name": "Tacleur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151080.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12624,
+    "name": "Tacleur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151081.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12625,
+    "name": "Fuyard mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151034.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12626,
+    "name": "Fuyard",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151035.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12627,
+    "name": "Fuyard majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151036.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12628,
+    "name": "Ralentisseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151067.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12629,
+    "name": "Ralentisseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151068.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12630,
+    "name": "Ralentisseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151069.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12631,
+    "name": "Engourdisseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151022.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12632,
+    "name": "Engourdisseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151023.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12633,
+    "name": "Engourdisseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151024.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12634,
+    "name": "Fugitif mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151028.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12635,
+    "name": "Fugitif",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151029.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12636,
+    "name": "Fugitif majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151030.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12637,
+    "name": "Insaisissable mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151040.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12638,
+    "name": "Insaisissable",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151041.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12639,
+    "name": "Insaisissable majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151042.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12640,
+    "name": "Pousseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151025.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12641,
+    "name": "Pousseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151026.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12642,
+    "name": "Pousseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151027.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12643,
+    "name": "Adamantin mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151004.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12644,
+    "name": "Adamantin",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151005.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12645,
+    "name": "Adamantin majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151006.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "48"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12646,
+    "name": "Rempart mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151064.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12647,
+    "name": "Rempart",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151065.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12648,
+    "name": "Rempart majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151066.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12649,
+    "name": "Cuirassé Air mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151007.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12650,
+    "name": "Cuirassé Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151008.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12651,
+    "name": "Cuirassé Air majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151009.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12652,
+    "name": "Cuirassé Eau mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151010.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12653,
+    "name": "Cuirassé Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151011.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12654,
+    "name": "Cuirassé Eau majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151012.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12659,
+    "name": "Cuirassé Feu mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151013.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12678,
+    "name": "Cuirassé Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151014.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12679,
+    "name": "Cuirassé Feu majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151015.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12680,
+    "name": "Cuirassé Terre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151019.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12681,
+    "name": "Cuirassé Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151020.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12682,
+    "name": "Cuirassé Terre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151021.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12683,
+    "name": "Cuirassé Neutre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151016.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12684,
+    "name": "Cuirassé Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151017.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12685,
+    "name": "Cuirassé Neutre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151018.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12686,
+    "name": "Ravageur Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151050.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12687,
+    "name": "Ravageur Air majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151051.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12688,
+    "name": "Ravageur Air mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151049.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12689,
+    "name": "Ravageur Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151053.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12690,
+    "name": "Ravageur Eau majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151054.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12691,
+    "name": "Ravageur Eau mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151052.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12692,
+    "name": "Ravageur Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151056.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12693,
+    "name": "Ravageur Feu majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151057.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12694,
+    "name": "Ravageur Feu mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151055.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12695,
+    "name": "Ravageur Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151059.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12696,
+    "name": "Ravageur Neutre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151058.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12697,
+    "name": "Ravageur Neutre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151060.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12698,
+    "name": "Ravageur Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151062.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12701,
+    "name": "Initiateur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151038.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12702,
+    "name": "Initiateur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151037.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12703,
+    "name": "Initiateur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151039.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "400"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12704,
+    "name": "Porteur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151046.png",
+    "statistics": [
+      {
+        "Pods": {
+          "min": "250"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12705,
+    "name": "Porteur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151047.png",
+    "statistics": [
+      {
+        "Pods": {
+          "min": "500"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12706,
+    "name": "Porteur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151048.png",
+    "statistics": [
+      {
+        "Pods": {
+          "min": "1000"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12707,
+    "name": "Soigneur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151073.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12708,
+    "name": "Soigneur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151075.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12709,
+    "name": "Soigneur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151074.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12712,
+    "name": "Acrobate mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151001.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "15"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12713,
+    "name": "Acrobate",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151002.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "30"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12714,
+    "name": "Acrobate majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151003.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "60"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12715,
+    "name": "Joueur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151044.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "30"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12716,
+    "name": "Joueur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151045.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "60"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12717,
+    "name": "Joueur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151043.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "15"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12718,
+    "name": "Savant mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151070.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "15"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12719,
+    "name": "Savant majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151072.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "60"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12720,
+    "name": "Savant",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151071.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "30"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12722,
+    "name": "Furibond mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151031.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "15"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12723,
+    "name": "Furibond",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151032.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "30"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12724,
+    "name": "Furibond majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151033.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "60"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12725,
+    "name": "Survivant",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151077.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "80"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12726,
+    "name": "Survivant majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151078.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "160"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12727,
+    "name": "Survivant mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151076.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "40"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12747,
+    "name": "Ravageur Terre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151063.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 12748,
+    "name": "Ravageur Terre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151061.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13748,
+    "name": "Bloqueur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151082.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "8"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13749,
+    "name": "Bloqueur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151083.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13750,
+    "name": "Bloqueur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151084.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "32"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13751,
+    "name": "Vagabond mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151085.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "8"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13752,
+    "name": "Vagabond",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151086.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "16"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13753,
+    "name": "Vagabond majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151087.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "32"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13754,
+    "name": "Docteur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151088.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "8"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13755,
+    "name": "Docteur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151089.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "16"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13756,
+    "name": "Docteur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151090.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "32"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13757,
+    "name": "Forcené mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151091.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13758,
+    "name": "Forcené",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151092.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13759,
+    "name": "Forcené majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151093.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13760,
+    "name": "Astucieux mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151094.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13761,
+    "name": "Astucieux",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151095.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13762,
+    "name": "Astucieux majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151096.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13763,
+    "name": "Equilibriste mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151097.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13764,
+    "name": "Equilibriste",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151098.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13765,
+    "name": "Equilibriste majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151099.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13766,
+    "name": "Taquin mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151100.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "25"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13767,
+    "name": "Taquin",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151101.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "50"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13768,
+    "name": "Taquin majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151102.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "100"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13769,
+    "name": "Bastion mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151103.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "8"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13770,
+    "name": "Bastion",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151104.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "16"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13771,
+    "name": "Bastion majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151105.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "32"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13772,
+    "name": "Saccageur Terre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151106.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "5"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13773,
+    "name": "Saccageur Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151107.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13774,
+    "name": "Saccageur Terre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151108.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13775,
+    "name": "Saccageur Neutre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151109.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13776,
+    "name": "Saccageur Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151110.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13777,
+    "name": "Saccageur Neutre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151111.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13778,
+    "name": "Saccageur Feu mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151112.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13779,
+    "name": "Saccageur Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151113.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13780,
+    "name": "Saccageur Feu majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151114.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13781,
+    "name": "Saccageur Eau mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151115.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13782,
+    "name": "Saccageur Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151116.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13783,
+    "name": "Saccageur Eau majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151117.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13784,
+    "name": "Saccageur Air mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151118.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13785,
+    "name": "Saccageur Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151119.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13786,
+    "name": "Saccageur Air majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151120.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13787,
+    "name": "Entraveur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151121.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "6"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13788,
+    "name": "Entraveur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151122.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "12"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13789,
+    "name": "Entraveur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151123.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "24"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13790,
+    "name": "Paralyseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151124.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "6"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13791,
+    "name": "Paralyseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151125.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "12"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13792,
+    "name": "Paralyseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151126.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "24"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13793,
+    "name": "Imprenable mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151127.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "8"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13794,
+    "name": "Imprenable",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151128.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "16"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13795,
+    "name": "Imprenable majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151129.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "32"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13796,
+    "name": "Evanescent mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151130.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "8"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13797,
+    "name": "Evanescent",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151131.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "16"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13798,
+    "name": "Evanescent majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151132.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "32"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13799,
+    "name": "Bousculeur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151133.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "16"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13800,
+    "name": "Bousculeur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151134.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "32"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13801,
+    "name": "Bousculeur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151135.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "64"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13802,
+    "name": "Inflexible mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151136.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "24"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13803,
+    "name": "Inflexible",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151137.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "48"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13804,
+    "name": "Inflexible majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151138.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "96"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13805,
+    "name": "Précurseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151139.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "200"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-25"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13806,
+    "name": "Précurseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151140.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "400"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13807,
+    "name": "Précurseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151141.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "800"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "-100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13808,
+    "name": "Muraille Terre mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151142.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13809,
+    "name": "Muraille Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151143.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13810,
+    "name": "Muraille Terre majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151144.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "40"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13811,
+    "name": "Muraille Neutre mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151145.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13812,
+    "name": "Muraille Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151146.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13813,
+    "name": "Muraille Neutre majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151147.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "40"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13814,
+    "name": "Muraille Feu mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151148.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13815,
+    "name": "Muraille Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151149.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13816,
+    "name": "Muraille Feu majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151150.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "40"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13817,
+    "name": "Muraille Eau mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151151.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13818,
+    "name": "Muraille Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151152.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13819,
+    "name": "Muraille Eau majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151153.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "40"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13820,
+    "name": "Muraille Air mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151154.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "10"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13821,
+    "name": "Muraille Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151155.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "20"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13822,
+    "name": "Muraille Air majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151156.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "40"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13823,
+    "name": "Puissant mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151157.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13824,
+    "name": "Puissant",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151158.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13825,
+    "name": "Puissant majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151159.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "40"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13826,
+    "name": "Robuste mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151160.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13827,
+    "name": "Robuste",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151161.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "40"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13828,
+    "name": "Robuste majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151162.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "80"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13829,
+    "name": "Turbulent",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151163.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "PM": {
+          "min": "-1"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13830,
+    "name": "Voyageur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151164.png",
+    "statistics": [
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "-30"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13831,
+    "name": "Examinateur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151165.png",
+    "statistics": [
+      {
+        "Portée": {
+          "min": "1"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13832,
+    "name": "Féroce mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151166.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "3"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13833,
+    "name": "Féroce",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151167.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "6"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "6"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "6"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "6"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 13834,
+    "name": "Féroce majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151168.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "12"
+        }
+      },
+      {
+        "Dommages Neutre": {
+          "min": "12"
+        }
+      },
+      {
+        "Dommages Air": {
+          "min": "12"
+        }
+      },
+      {
+        "Dommages Terre": {
+          "min": "12"
+        }
+      },
+      {
+        "Dommages Feu": {
+          "min": "12"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "-24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16182,
+    "name": "Obstructeur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151190.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16183,
+    "name": "Obstructeur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151191.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16184,
+    "name": "Obstructeur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151192.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16185,
+    "name": "Déserteur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151193.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16186,
+    "name": "Déserteur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151194.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16187,
+    "name": "Déserteur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151195.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16188,
+    "name": "Guérisseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151187.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16189,
+    "name": "Guérisseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151188.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16190,
+    "name": "Guérisseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151189.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16191,
+    "name": "Miraculé mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151181.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "80"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16192,
+    "name": "Miraculé",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151182.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "160"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16193,
+    "name": "Miraculé majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151183.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "320"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16194,
+    "name": "Enragé mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151172.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "25"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16195,
+    "name": "Enragé",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151173.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16196,
+    "name": "Enragé majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151174.png",
+    "statistics": [
+      {
+        "Force": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16202,
+    "name": "Érudit mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151169.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "25"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16203,
+    "name": "Érudit",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151170.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16204,
+    "name": "Érudit majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151171.png",
+    "statistics": [
+      {
+        "Intelligence": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16243,
+    "name": "Cascadeur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151178.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "25"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16244,
+    "name": "Cascadeur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151179.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16245,
+    "name": "Cascadeur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151180.png",
+    "statistics": [
+      {
+        "Agilité": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16246,
+    "name": "Chanceux mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151175.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "25"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16247,
+    "name": "Chanceux",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151176.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16248,
+    "name": "Chanceux majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151177.png",
+    "statistics": [
+      {
+        "Chance": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16249,
+    "name": "Fortification mineure",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151247.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16250,
+    "name": "Fortification",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151248.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16251,
+    "name": "Fortification majeure",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151249.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16252,
+    "name": "Dévastateur Terre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151217.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16253,
+    "name": "Dévastateur Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151218.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16254,
+    "name": "Dévastateur Terre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151219.png",
+    "statistics": [
+      {
+        "Dommages Terre": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16255,
+    "name": "Dévastateur Neutre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151223.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16256,
+    "name": "Dévastateur Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151224.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16257,
+    "name": "Dévastateur Neutre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151225.png",
+    "statistics": [
+      {
+        "Dommages Neutre": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16258,
+    "name": "Dévastateur Feu mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151214.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16259,
+    "name": "Dévastateur Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151215.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16260,
+    "name": "Dévastateur Feu majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151216.png",
+    "statistics": [
+      {
+        "Dommages Feu": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16262,
+    "name": "Dévastateur Eau mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151211.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16263,
+    "name": "Dévastateur Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151212.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16264,
+    "name": "Dévastateur Eau majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151213.png",
+    "statistics": [
+      {
+        "Dommages Eau": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16265,
+    "name": "Dévastateur Air mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151220.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "5"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16266,
+    "name": "Dévastateur Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151221.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16267,
+    "name": "Dévastateur Air majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151222.png",
+    "statistics": [
+      {
+        "Dommages Air": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16274,
+    "name": "Temporiseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151196.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16275,
+    "name": "Temporiseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151197.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16281,
+    "name": "Temporiseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151198.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16282,
+    "name": "Étourdisseur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151199.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16283,
+    "name": "Étourdisseur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151200.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16284,
+    "name": "Étourdisseur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151201.png",
+    "statistics": [
+      {
+        "Retrait PA": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16292,
+    "name": "Évasif mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151229.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16293,
+    "name": "Évasif",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151230.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16294,
+    "name": "Évasif majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151231.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16300,
+    "name": "Cavaleur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151208.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "8"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16301,
+    "name": "Cavaleur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151209.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16302,
+    "name": "Cavaleur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151210.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16303,
+    "name": "Culbuteur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151205.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "16"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16305,
+    "name": "Culbuteur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151206.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "32"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16306,
+    "name": "Culbuteur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151207.png",
+    "statistics": [
+      {
+        "Dommages Poussée": {
+          "min": "64"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16308,
+    "name": "Solide mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151250.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "24"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16309,
+    "name": "Solide",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151251.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "48"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16310,
+    "name": "Solide majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151252.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "96"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16311,
+    "name": "Fonceur mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151226.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "200"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16312,
+    "name": "Fonceur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151227.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "400"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16313,
+    "name": "Fonceur majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151228.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "800"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16314,
+    "name": "Carapace Terre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151238.png",
+    "statistics": [
+      {
+        "% Résistance Terre": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16315,
+    "name": "Carapace Terre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151239.png",
+    "statistics": [
+      {
+        "% Résistance Terre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16316,
+    "name": "Carapace Terre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151240.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16318,
+    "name": "Carapace Neutre mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151244.png",
+    "statistics": [
+      {
+        "% Résistance Neutre": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16319,
+    "name": "Carapace Neutre",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151245.png",
+    "statistics": [
+      {
+        "% Résistance Neutre": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16320,
+    "name": "Carapace Neutre majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151246.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16321,
+    "name": "Carapace Feu mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151235.png",
+    "statistics": [
+      {
+        "% Résistance Feu": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16322,
+    "name": "Carapace Feu",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151236.png",
+    "statistics": [
+      {
+        "% Résistance Feu": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16323,
+    "name": "Carapace Feu majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151237.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16324,
+    "name": "Carapace Eau mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151232.png",
+    "statistics": [
+      {
+        "% Résistance Eau": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16325,
+    "name": "Carapace Eau",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151233.png",
+    "statistics": [
+      {
+        "% Résistance Eau": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16326,
+    "name": "Carapace Eau majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151234.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16327,
+    "name": "Carapace Air mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151241.png",
+    "statistics": [
+      {
+        "% Résistance Air": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16328,
+    "name": "Carapace Air",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151242.png",
+    "statistics": [
+      {
+        "% Résistance Air": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16329,
+    "name": "Carapace Air majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151243.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16330,
+    "name": "Vigoureux mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151202.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16331,
+    "name": "Vigoureux",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151203.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "40"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16332,
+    "name": "Vigoureux majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151204.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "80"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16333,
+    "name": "Remueur",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151254.png",
+    "statistics": [
+      {
+        "PA": {
+          "min": "1"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "50"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16335,
+    "name": "Nomade",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151257.png",
+    "statistics": [
+      {
+        "PM": {
+          "min": "1"
+        }
+      },
+      {
+        "Puissance": {
+          "min": "20"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16336,
+    "name": "Observateur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151264.png",
+    "statistics": [
+      {
+        "Portée": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16337,
+    "name": "Sanguinaire mineur",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151261.png",
+    "statistics": [
+      {
+        "Dommages": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16338,
+    "name": "Sanguinaire",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151260.png",
+    "statistics": [
+      {
+        "Dommages": {
+          "min": "6"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  },
+  {
+    "_id": 16339,
+    "name": "Sanguinaire majeur",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/151259.png",
+    "statistics": [
+      {
+        "Dommages": {
+          "min": "12"
+        }
+      }
+    ],
+    "type": "Trophée",
+    "setId": 0
+  }
+]

@@ -1,0 +1,196 @@
+[
+  {
+    "_id": 765,
+    "name": "Faux de Farle Ingalsse",
+    "level": "13",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/22001.png",
+    "statistics": [
+      {
+        "(dommages Neutre)": {
+          "min": "6",
+          "max": "10"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Chance": {
+          "min": "11",
+          "max": "15"
+        }
+      }
+    ],
+    "type": "Faux",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "4 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/10 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8127,
+    "name": "Faux usée du Paysan",
+    "level": "17",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/22002.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "Dommages Eau": {
+          "min": "2"
+        }
+      }
+    ],
+    "type": "Faux",
+    "setId": 47,
+    "characteristics": [
+      {
+        "PA": "3 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  },
+  {
+    "_id": 8992,
+    "name": "Faux Maudite du Saigneur Guerrier",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/22003.png",
+    "statistics": [
+      {},
+      {
+        "(dommages Eau)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Feu)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Neutre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "(dommages Terre)": {
+          "min": "9",
+          "max": "18"
+        }
+      },
+      {
+        "Chance": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Intelligence": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Force": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Agilité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Sagesse": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "26",
+          "max": "40"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {},
+      {},
+      {},
+      {}
+    ],
+    "type": "Faux",
+    "setId": 0,
+    "characteristics": [
+      {
+        "PA": "6 (1 utilisation par tour)"
+      },
+      {
+        "Portée": "1"
+      },
+      {
+        "CC": "1/5 (+5)"
+      }
+    ]
+  }
+]

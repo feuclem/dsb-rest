@@ -1,0 +1,2355 @@
+[
+  {
+    "_id": 7070,
+    "name": "Bouclier des Brigandins écorché",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82009.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 7097,
+    "name": "Bouclier d\u0027entraînement",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82001.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10158,
+    "name": "Bouclier trophée du Dark Vlad",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82043.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10159,
+    "name": "Bouclier trophée du Moon",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82044.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10160,
+    "name": "Bouclier trophée du Chêne Mou",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82045.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10161,
+    "name": "Bouclier trophée du Dragon Cochon",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82046.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10163,
+    "name": "Bouclier trophée du Kimbo",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82048.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10164,
+    "name": "Bouclier trophée du Wa Wabbit",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82049.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10165,
+    "name": "Bouclier trophée du Koulosse",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82050.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10166,
+    "name": "Bouclier trophée du Sphincter Cell",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82051.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10167,
+    "name": "Bouclier trophée du Bworker",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82052.png",
+    "statistics": [
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 10798,
+    "name": "Bouclier de l\u0027intrépide",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82055.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 11809,
+    "name": "Stasili",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82058.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 12660,
+    "name": "Bouclier d\u0027Incarnam",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82063.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "100"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 12798,
+    "name": "Bouclier du Survivant",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82056.png",
+    "statistics": [
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 13240,
+    "name": "Bouclier de Guilde",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82072.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 13712,
+    "name": "Bouclier de Kéké",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82077.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 14396,
+    "name": "Bouclier d\u0027Alliance",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82080.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 17527,
+    "name": "Bouclier des 1001 Griffes",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82131.png",
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18659,
+    "name": "Bouclier en Mousse",
+    "level": "25",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82010.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 63
+  },
+  {
+    "_id": 18660,
+    "name": "Coupe de Dragokart",
+    "level": "100",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82084.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-7"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18661,
+    "name": "Bouclier Aerdala",
+    "level": "95",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82030.png",
+    "statistics": [
+      {
+        "Retrait PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {},
+      {
+        "% Dommages aux sorts": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18662,
+    "name": "Bouclier Feudala",
+    "level": "135",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82033.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-9"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18663,
+    "name": "Bouclier Terrdala",
+    "level": "115",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82032.png",
+    "statistics": [
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18664,
+    "name": "Bouclier du Craqueleur",
+    "level": "40",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82023.png",
+    "statistics": [
+      {
+        "Esquive PM": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18665,
+    "name": "Bouclier de Bowisse",
+    "level": "30",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82021.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "4",
+          "max": "6"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18666,
+    "name": "Bouclier du Bouftou",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82020.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18667,
+    "name": "Bouclier du Chouque",
+    "level": "85",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82018.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18668,
+    "name": "Bouclier Volant",
+    "level": "10",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82017.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "5"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18669,
+    "name": "Kloume",
+    "level": "55",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82015.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "-3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18670,
+    "name": "Bouclier du Captain Amakna",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82014.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18671,
+    "name": "Derma Tho",
+    "level": "65",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82003.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {},
+      {
+        "% Dommages distance": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18672,
+    "name": "Bouclier du Bawbawe",
+    "level": "60",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82002.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {},
+      {
+        "% Dommages aux sorts": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18673,
+    "name": "Le Karde Cœur",
+    "level": "105",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82007.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-7"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18674,
+    "name": "Bouclier des Brigandins",
+    "level": "125",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82009.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-9"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18675,
+    "name": "Bouclier du Mont Kipou",
+    "level": "145",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82001.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "71",
+          "max": "100"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Soins": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-10"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18676,
+    "name": "Bouclier du Bûcheron",
+    "level": "1",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82004.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "5",
+          "max": "7"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18677,
+    "name": "Cadran d\u0027Eau",
+    "level": "160",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82025.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18678,
+    "name": "Cadran de Terre",
+    "level": "165",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82027.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18679,
+    "name": "Cadran d\u0027Air",
+    "level": "170",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82026.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Air": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-12"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18680,
+    "name": "Cadran de Feu",
+    "level": "175",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82024.png",
+    "statistics": [
+      {
+        "Résistance Feu": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18681,
+    "name": "Bouclier Pandawa",
+    "level": "150",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82022.png",
+    "statistics": [
+      {
+        "Résistance Neutre": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "% Dommages aux sorts": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18682,
+    "name": "Bouclier Abraknyde",
+    "level": "45",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82019.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18683,
+    "name": "Bouclier d\u0027Asse",
+    "level": "110",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82016.png",
+    "statistics": [
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "6",
+          "max": "8"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18684,
+    "name": "Bouclier en Slip",
+    "level": "120",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82013.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "61",
+          "max": "80"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "15",
+          "max": "20"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "1% Résistance mêlée": {
+          "min": "-8"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18685,
+    "name": "Bouclier du Sadida",
+    "level": "130",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82012.png",
+    "statistics": [
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "7",
+          "max": "9"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18686,
+    "name": "Bouclier Ventaille",
+    "level": "140",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82011.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-10"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18687,
+    "name": "Bouclier Akwadala",
+    "level": "75",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82031.png",
+    "statistics": [
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {},
+      {
+        "1% Résistance mêlée": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18688,
+    "name": "Bouclier Taverne",
+    "level": "155",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82006.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "8",
+          "max": "11"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18689,
+    "name": "Ftalmo",
+    "level": "90",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82005.png",
+    "statistics": [
+      {
+        "% Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-6"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18690,
+    "name": "Bouclier de Sidimote",
+    "level": "80",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82008.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-5"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18691,
+    "name": "Bouclier Fi\u0027Squale",
+    "level": "50",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82035.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "2",
+          "max": "3"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18692,
+    "name": "Bouclier précieux",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82167.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {},
+      {
+        "% Dommages distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18693,
+    "name": "Écorce de Brouce",
+    "level": "196",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82166.png",
+    "statistics": [
+      {
+        "Résistance Terre": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Résistance Eau": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18694,
+    "name": "Roncier",
+    "level": "180",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82165.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "31",
+          "max": "40"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "% Dommages aux sorts": {
+          "min": "-13"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18695,
+    "name": "La Rondelle",
+    "level": "185",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82164.png",
+    "statistics": [
+      {
+        "Esquive PA": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "10",
+          "max": "13"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "-13"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18696,
+    "name": "Ambrouclier",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82159.png",
+    "statistics": [
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "5",
+          "max": "7"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "1% Résistance mêlée": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18697,
+    "name": "Jadis",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82168.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "41",
+          "max": "50"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18698,
+    "name": "Bouclier du serrurier",
+    "level": "190",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82148.png",
+    "statistics": [
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {},
+      {
+        "% Dommages distance": {
+          "min": "-13"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18699,
+    "name": "Carapar",
+    "level": "192",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82149.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Soins": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18700,
+    "name": "Quatre-feuilles",
+    "level": "193",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82150.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "11",
+          "max": "14"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-14"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18701,
+    "name": "Sept ans de malheur",
+    "level": "194",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82151.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Retrait PA": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-14"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18702,
+    "name": "Détourné",
+    "level": "195",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82152.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "201",
+          "max": "250"
+        }
+      },
+      {
+        "Résistance Air": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-14"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18703,
+    "name": "Bivalve",
+    "level": "197",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82160.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Dommages Poussée": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "10",
+          "max": "14"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-14"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18709,
+    "name": "Bouclier à hélice",
+    "level": "191",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82161.png",
+    "statistics": [
+      {
+        "Résistance Eau": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Résistance Feu": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-13"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18710,
+    "name": "Bouclier du Chafer fantassin",
+    "level": "35",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82153.png",
+    "statistics": [
+      {
+        "Résistance Air": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "3",
+          "max": "4"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "2"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-2"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18711,
+    "name": "Bouclier cubiste",
+    "level": "198",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82162.png",
+    "statistics": [
+      {
+        "Portée": {
+          "min": "1"
+        }
+      },
+      {
+        "Retrait PM": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Résistance Feu": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "-9"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18712,
+    "name": "Bouclier alvéolé",
+    "level": "199",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82163.png",
+    "statistics": [
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Résistance Terre": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages aux sorts": {
+          "min": "-9"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18713,
+    "name": "Bouclier du Chef Crocodaille",
+    "level": "70",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82154.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "15",
+          "max": "20"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "% Dommages mêlée": {
+          "min": "-4"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18714,
+    "name": "Bouclier du tournesol sauvage",
+    "level": "5",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82155.png",
+    "statistics": [
+      {
+        "% Critique": {
+          "min": "2",
+          "max": "3"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18715,
+    "name": "Bouclier du Stalak",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82156.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "26",
+          "max": "35"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 18718,
+    "name": "Bouclier du Cycloïde",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82157.png",
+    "statistics": [
+      {
+        "Soins": {
+          "min": "21",
+          "max": "25"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 19077,
+    "name": "Bouclier d\u0027Anerice",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82173.png",
+    "statistics": [
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-15"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 435
+  },
+  {
+    "_id": 19080,
+    "name": "Goulclier",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82172.png",
+    "statistics": [
+      {
+        "Puissance": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Esquive PA": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-15"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 436
+  },
+  {
+    "_id": 19084,
+    "name": "Bouclier de Choudini",
+    "level": "90",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82171.png",
+    "statistics": [
+      {
+        "Fuite": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Dommages Critiques": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "6"
+        }
+      },
+      {
+        "1% Résistance mêlée": {
+          "min": "-6"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 438
+  },
+  {
+    "_id": 19116,
+    "name": "Bouclier Invisible",
+    "level": "20",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82177.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "31",
+          "max": "40"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 373
+  },
+  {
+    "_id": 19259,
+    "name": "Bouclier Bontarien",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82182.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {
+        "% Dommages distance": {
+          "min": "-15"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 19260,
+    "name": "Bouclier Brâkmarien",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82183.png",
+    "statistics": [
+      {
+        "Initiative": {
+          "min": "401",
+          "max": "500"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Critique": {
+          "min": "4",
+          "max": "5"
+        }
+      },
+      {},
+      {
+        "1% Résistance distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 19263,
+    "name": "Bouclier d\u0027Ilyzaelle",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82181.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "% Résistance Eau": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "11",
+          "max": "15"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 450
+  },
+  {
+    "_id": 19598,
+    "name": "Bouclier de Solar",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82188.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "81",
+          "max": "120"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "51",
+          "max": "70"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "9",
+          "max": "12"
+        }
+      },
+      {},
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 20357,
+    "name": "Droiture de Fallanster",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82212.png",
+    "statistics": [
+      {},
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Résistance Poussée": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "Fuite": {
+          "min": "-20"
+        }
+      },
+      {
+        "Esquive PM": {
+          "min": "-20"
+        }
+      },
+      {
+        "1% Résistance distance": {
+          "min": "10"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 20358,
+    "name": "Trompe-la-Mort",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82211.png",
+    "statistics": [
+      {},
+      {
+        "Initiative": {
+          "min": "-500"
+        }
+      },
+      {
+        "Vitalité": {
+          "min": "151",
+          "max": "200"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "21",
+          "max": "30"
+        }
+      },
+      {
+        "% Résistance Terre": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "5",
+          "max": "8"
+        }
+      },
+      {
+        "Portée": {
+          "min": "-1"
+        }
+      },
+      {
+        "% Dommages mêlée": {
+          "min": "-10"
+        }
+      },
+      {}
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  },
+  {
+    "_id": 20926,
+    "name": "Bouclier des Chocomanciens",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82228.png",
+    "statistics": [
+      {
+        "Vitalité": {
+          "min": "101",
+          "max": "150"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "20"
+        }
+      },
+      {
+        "% Résistance Neutre": {
+          "min": "7",
+          "max": "10"
+        }
+      },
+      {},
+      {
+        "% Dommages distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 468
+  },
+  {
+    "_id": 21225,
+    "name": "Croclier",
+    "level": "200",
+    "imgUrl": "https://s.ankama.com/www/static.ankama.com/dofus/www/game/items/200/82235.png",
+    "statistics": [
+      {
+        "Résistance Poussée": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Résistance Critiques": {
+          "min": "21",
+          "max": "40"
+        }
+      },
+      {
+        "Tacle": {
+          "min": "16",
+          "max": "25"
+        }
+      },
+      {},
+      {
+        "% Dommages distance": {
+          "min": "-15"
+        }
+      }
+    ],
+    "type": "Bouclier",
+    "setId": 0
+  }
+]

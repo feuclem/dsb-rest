@@ -1,0 +1,27 @@
+{
+  "id": 373,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Puissance": {
+            "min": "20",
+            "max": "20"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Puissance": {
+            "min": "30",
+            "max": "30"
+          }
+        }
+      ]
+    }
+  ]
+}

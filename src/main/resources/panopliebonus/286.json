@@ -1,0 +1,28 @@
+{
+  "id": 286,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "60",
+            "max": "60"
+          }
+        },
+        {
+          "Dommages Critiques": {
+            "min": "12",
+            "max": "12"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}

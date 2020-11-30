@@ -1,0 +1,98 @@
+{
+  "id": 229,
+  "bonus": [
+    {
+      "number": 2,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "50",
+            "max": "50"
+          }
+        },
+        {
+          "Puissance": {
+            "min": "30",
+            "max": "30"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "4%",
+            "max": "4%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "6",
+            "max": "6"
+          }
+        }
+      ]
+    },
+    {
+      "number": 3,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "100",
+            "max": "100"
+          }
+        },
+        {
+          "Puissance": {
+            "min": "60",
+            "max": "60"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "8%",
+            "max": "8%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "12",
+            "max": "12"
+          }
+        }
+      ]
+    },
+    {
+      "number": 4,
+      "stats": [
+        {
+          "Vitalité": {
+            "min": "150",
+            "max": "150"
+          }
+        },
+        {
+          "Puissance": {
+            "min": "90",
+            "max": "90"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "12%",
+            "max": "12%"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "18",
+            "max": "18"
+          }
+        },
+        {
+          "Vitalité": {
+            "min": "1",
+            "max": "1"
+          }
+        }
+      ]
+    }
+  ]
+}
